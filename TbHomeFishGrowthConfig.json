@@ -1,0 +1,209 @@
+{
+  "1350070001": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070001,
+    "growth_time": 28800,
+    "fish_id": 110004,
+    "estimate_harvests_money": "-",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_01.T_UI_house_img_fish_01"
+  },
+  "1350070002": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070002,
+    "growth_time": 28800,
+    "fish_id": 110000,
+    "estimate_harvests_money": "-",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_02.T_UI_house_img_fish_02"
+  },
+  "1350070003": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070003,
+    "growth_time": 28800,
+    "fish_id": 110001,
+    "estimate_harvests_money": "-",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_03.T_UI_house_img_fish_03"
+  },
+  "1350070004": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070004,
+    "growth_time": 28800,
+    "fish_id": 110003,
+    "estimate_harvests_money": "-",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_04.T_UI_house_img_fish_04"
+  },
+  "1350070005": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070005,
+    "growth_time": 43200,
+    "fish_id": 120004,
+    "estimate_harvests_money": "-",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_05.T_UI_house_img_fish_05"
+  },
+  "1350070006": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070006,
+    "growth_time": 43200,
+    "fish_id": 120003,
+    "estimate_harvests_money": "-",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_06.T_UI_house_img_fish_06"
+  },
+  "1350070007": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070007,
+    "growth_time": 72000,
+    "fish_id": 130000,
+    "estimate_harvests_money": "-",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_07.T_UI_house_img_fish_07"
+  },
+  "1350070008": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070008,
+    "growth_time": 43200,
+    "fish_id": 120000,
+    "estimate_harvests_money": "-",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_08.T_UI_house_img_fish_08"
+  },
+  "1350070009": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070009,
+    "growth_time": 72000,
+    "fish_id": 130001,
+    "estimate_harvests_money": "-",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_09.T_UI_house_img_fish_09"
+  },
+  "1350070010": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070010,
+    "growth_time": 43200,
+    "fish_id": 120005,
+    "estimate_harvests_money": "-",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_10.T_UI_house_img_fish_10"
+  },
+  "1350070011": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070011,
+    "growth_time": 72000,
+    "fish_id": 130004,
+    "estimate_harvests_money": "-",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_11.T_UI_house_img_fish_11"
+  },
+  "1350070012": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070012,
+    "growth_time": 100800,
+    "fish_id": 140000,
+    "estimate_harvests_money": "-",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_12.T_UI_house_img_fish_12"
+  },
+  "1350070013": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070013,
+    "growth_time": 43200,
+    "fish_id": 120006,
+    "estimate_harvests_money": "-",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_13.T_UI_house_img_fish_13"
+  },
+  "1350070014": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070014,
+    "growth_time": 72000,
+    "fish_id": 130005,
+    "estimate_harvests_money": "-",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_14.T_UI_house_img_fish_14"
+  },
+  "1350070015": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070015,
+    "growth_time": 72000,
+    "fish_id": 130003,
+    "estimate_harvests_money": "-",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_15.T_UI_house_img_fish_15"
+  },
+  "1350070016": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070016,
+    "growth_time": 72000,
+    "fish_id": 120001,
+    "estimate_harvests_money": "-",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_16.T_UI_house_img_fish_16"
+  },
+  "1350070017": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070017,
+    "growth_time": 43200,
+    "fish_id": 1812001,
+    "estimate_harvests_money": "-",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_17.T_UI_house_img_fish_17"
+  },
+  "1350070018": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070018,
+    "growth_time": 43200,
+    "fish_id": 1812002,
+    "estimate_harvests_money": "-",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_18.T_UI_house_img_fish_18"
+  },
+  "1350070019": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070019,
+    "growth_time": 43200,
+    "fish_id": 1912001,
+    "estimate_harvests_money": "4590-4770",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_19.T_UI_house_img_fish_19"
+  },
+  "1350070020": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070020,
+    "growth_time": 14400,
+    "fish_id": 1911001,
+    "estimate_harvests_money": "1530-1590",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_20.T_UI_house_img_fish_20"
+  },
+  "1350070021": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070021,
+    "growth_time": 28800,
+    "fish_id": 1912002,
+    "estimate_harvests_money": "2720-2880",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_21.T_UI_house_img_fish_21"
+  },
+  "1350070022": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070022,
+    "growth_time": 7200,
+    "fish_id": 1911002,
+    "estimate_harvests_money": "680-720",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_22.T_UI_house_img_fish_22"
+  },
+  "1350070023": {
+    "_name": "homenew.HomeFishGrowthConfig",
+    "_id": 96974061,
+    "fry_id": 1350070023,
+    "growth_time": 72000,
+    "fish_id": 1913001,
+    "estimate_harvests_money": "7650-7950",
+    "show_photo": "/Game/UI/SysHomeUI/Common/Textures/Icon/Fish/FishListPic/T_UI_house_img_fish_23.T_UI_house_img_fish_23"
+  }
+}

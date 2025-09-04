@@ -1,0 +1,1581 @@
+{
+  "1350030001": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030001,
+    "name": "晴雨蝶兰种子",
+    "harvest_item": 0,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 10800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 10800
+      }
+    ],
+    "harvest_cfg_id": 1350030001,
+    "estimate_harvests": "1",
+    "estimate_harvests_money": "-",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_60/S_NHNature_Shrub_60.S_NHNature_Shrub_60'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_60/S_NHNature_Shrub_60.S_NHNature_Shrub_60'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_007.T_UI_homeplanting_icon_show_007'",
+    "can_plant": 1
+  },
+  "1350030002": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030002,
+    "name": "布布果种子",
+    "harvest_item": 0,
+    "species": 1,
+    "compatible_farmland": [
+      1170000321
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 18000
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 18000
+      }
+    ],
+    "harvest_cfg_id": 1350030002,
+    "estimate_harvests": "3",
+    "estimate_harvests_money": "200",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_79/S_NHNature_Shrub_79.S_NHNature_Shrub_79'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_sakura_18m_01a/S_NHNature_sakura_18m_01a.S_NHNature_sakura_18m_01a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_015.T_UI_homeplanting_icon_show_015'",
+    "can_plant": 1
+  },
+  "1350030003": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030003,
+    "name": "壁灯红椒种子",
+    "harvest_item": 0,
+    "species": 3,
+    "compatible_farmland": [
+      1170000321
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 18000
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 18000
+      }
+    ],
+    "harvest_cfg_id": 1350030003,
+    "estimate_harvests": "5",
+    "estimate_harvests_money": "-",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_61/S_NHNature_Shrub_61.S_NHNature_Shrub_61'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_61/S_NHNature_Shrub_61.S_NHNature_Shrub_61'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_009.T_UI_homeplanting_icon_show_009'",
+    "can_plant": 1
+  },
+  "1350030004": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030004,
+    "name": "飞球果种子",
+    "harvest_item": 0,
+    "species": 1,
+    "compatible_farmland": [
+      1170000321
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 18000
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 18000
+      }
+    ],
+    "harvest_cfg_id": 1350030004,
+    "estimate_harvests": "3",
+    "estimate_harvests_money": "200",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_79/S_NHNature_Shrub_79.S_NHNature_Shrub_79'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_sakura_18m_01a/S_NHNature_sakura_18m_01a.S_NHNature_sakura_18m_01a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_010.T_UI_homeplanting_icon_show_010'",
+    "can_plant": 1
+  },
+  "1350030005": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030005,
+    "name": "纽扣松果种子",
+    "harvest_item": 0,
+    "species": 1,
+    "compatible_farmland": [
+      1170000321
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 18000
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 18000
+      }
+    ],
+    "harvest_cfg_id": 1350030005,
+    "estimate_harvests": "3",
+    "estimate_harvests_money": "200",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_larch_15m_01b/S_NHNature_larch_15m_01b.S_NHNature_larch_15m_01b'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_larch_15m_01a/S_NHNature_larch_15m_01a.S_NHNature_larch_15m_01a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_011.T_UI_homeplanting_icon_show_011'",
+    "can_plant": 1
+  },
+  "1350030006": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030006,
+    "name": "绒球草种子",
+    "harvest_item": 0,
+    "species": 3,
+    "compatible_farmland": [
+      1170000321
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 18000
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 18000
+      }
+    ],
+    "harvest_cfg_id": 1350030006,
+    "estimate_harvests": "2",
+    "estimate_harvests_money": "-",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_61/S_NHNature_Shrub_61.S_NHNature_Shrub_61'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_61/S_NHNature_Shrub_61.S_NHNature_Shrub_61'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_012.T_UI_homeplanting_icon_show_012'",
+    "can_plant": 1
+  },
+  "1350030007": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030007,
+    "name": "滋滋火花种子",
+    "harvest_item": 0,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 10800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 10800
+      }
+    ],
+    "harvest_cfg_id": 1350030007,
+    "estimate_harvests": "1",
+    "estimate_harvests_money": "-",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_74/S_NHNature_Shrub_74.S_NHNature_Shrub_74'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_74/S_NHNature_Shrub_74.S_NHNature_Shrub_74'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_013_1.T_UI_homeplanting_icon_show_013_1'",
+    "can_plant": 1
+  },
+  "1350030008": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030008,
+    "name": "时光树种子",
+    "harvest_item": 0,
+    "species": 1,
+    "compatible_farmland": [
+      1170000322
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 36000
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 36000
+      }
+    ],
+    "harvest_cfg_id": 1350030008,
+    "estimate_harvests": "3",
+    "estimate_harvests_money": "300",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_79/S_NHNature_Shrub_79.S_NHNature_Shrub_79'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_sakura_18m_01a/S_NHNature_sakura_18m_01a.S_NHNature_sakura_18m_01a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_014.T_UI_homeplanting_icon_show_014'",
+    "can_plant": 1
+  },
+  "1350030009": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030009,
+    "name": "小绵菊种子",
+    "harvest_item": 0,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 10800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 10800
+      }
+    ],
+    "harvest_cfg_id": 1350030009,
+    "estimate_harvests": "1",
+    "estimate_harvests_money": "-",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_60/S_NHNature_Shrub_60.S_NHNature_Shrub_60'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_60/S_NHNature_Shrub_60.S_NHNature_Shrub_60'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_016.T_UI_homeplanting_icon_show_016'",
+    "can_plant": 1
+  },
+  "1350030010": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030010,
+    "name": "宝匣瓜种子",
+    "harvest_item": 0,
+    "species": 3,
+    "compatible_farmland": [
+      1170000321
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 10800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 10800
+      }
+    ],
+    "harvest_cfg_id": 1350030010,
+    "estimate_harvests": "3",
+    "estimate_harvests_money": "-",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_61/S_NHNature_Shrub_61.S_NHNature_Shrub_61'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_61/S_NHNature_Shrub_61.S_NHNature_Shrub_61'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_017.T_UI_homeplanting_icon_show_017'",
+    "can_plant": 1
+  },
+  "1350030011": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030011,
+    "name": "兔耳草种子",
+    "harvest_item": 0,
+    "species": 3,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 10800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 10800
+      }
+    ],
+    "harvest_cfg_id": 1350030011,
+    "estimate_harvests": "1",
+    "estimate_harvests_money": "-",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_60/S_NHNature_Shrub_60.S_NHNature_Shrub_60'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_60/S_NHNature_Shrub_60.S_NHNature_Shrub_60'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_018.T_UI_homeplanting_icon_show_018'",
+    "can_plant": 1
+  },
+  "1350030012": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030012,
+    "name": "路灯花种子",
+    "harvest_item": 0,
+    "species": 3,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 10800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 10800
+      }
+    ],
+    "harvest_cfg_id": 1350030012,
+    "estimate_harvests": "1",
+    "estimate_harvests_money": "-",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_74/S_NHNature_Shrub_74.S_NHNature_Shrub_74'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_74/S_NHNature_Shrub_74.S_NHNature_Shrub_74'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_019.T_UI_homeplanting_icon_show_019'",
+    "can_plant": 1
+  },
+  "1350030013": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030013,
+    "name": "满满星种子",
+    "harvest_item": 0,
+    "species": 1,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 10800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 10800
+      }
+    ],
+    "harvest_cfg_id": 1350030013,
+    "estimate_harvests": "1",
+    "estimate_harvests_money": "-",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_60/S_NHNature_Shrub_60.S_NHNature_Shrub_60'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_60/S_NHNature_Shrub_60.S_NHNature_Shrub_60'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_020.T_UI_homeplanting_icon_show_020'",
+    "can_plant": 1
+  },
+  "1350030014": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030014,
+    "name": "花伞藤萝种子",
+    "harvest_item": 0,
+    "species": 3,
+    "compatible_farmland": [
+      1170000321
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 18000
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 18000
+      }
+    ],
+    "harvest_cfg_id": 1350030014,
+    "estimate_harvests": "1",
+    "estimate_harvests_money": "-",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_61/S_NHNature_Shrub_61.S_NHNature_Shrub_61'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_61/S_NHNature_Shrub_61.S_NHNature_Shrub_61'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_021.T_UI_homeplanting_icon_show_021'",
+    "can_plant": 1
+  },
+  "1350030015": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030015,
+    "name": "星荧草种子",
+    "harvest_item": 0,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 10800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 10800
+      }
+    ],
+    "harvest_cfg_id": 1350030015,
+    "estimate_harvests": "1",
+    "estimate_harvests_money": "-",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_60/S_NHNature_Shrub_60.S_NHNature_Shrub_60'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_60/S_NHNature_Shrub_60.S_NHNature_Shrub_60'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_022.T_UI_homeplanting_icon_show_022'",
+    "can_plant": 1
+  },
+  "1350030016": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030016,
+    "name": "风絮草种子",
+    "harvest_item": 0,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 10800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 10800
+      }
+    ],
+    "harvest_cfg_id": 1350030016,
+    "estimate_harvests": "1",
+    "estimate_harvests_money": "-",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_60/S_NHNature_Shrub_60.S_NHNature_Shrub_60'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_60/S_NHNature_Shrub_60.S_NHNature_Shrub_60'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_023.T_UI_homeplanting_icon_show_023'",
+    "can_plant": 1
+  },
+  "1350030017": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030017,
+    "name": "噼啪火花种子",
+    "harvest_item": 0,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 10800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 10800
+      }
+    ],
+    "harvest_cfg_id": 1350030017,
+    "estimate_harvests": "1",
+    "estimate_harvests_money": "-",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_74/S_NHNature_Shrub_74.S_NHNature_Shrub_74'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_74/S_NHNature_Shrub_74.S_NHNature_Shrub_74'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_024_1.T_UI_homeplanting_icon_show_024_1'",
+    "can_plant": 1
+  },
+  "1350030019": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030019,
+    "name": "玉絮红梅种子",
+    "harvest_item": 0,
+    "species": 1,
+    "compatible_farmland": [
+      1170000321
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 18000
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 18000
+      }
+    ],
+    "harvest_cfg_id": 1350030019,
+    "estimate_harvests": "3",
+    "estimate_harvests_money": "250",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_79/S_NHNature_Shrub_79.S_NHNature_Shrub_79'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_sakura_18m_01a/S_NHNature_sakura_18m_01a.S_NHNature_sakura_18m_01a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_025.T_UI_homeplanting_icon_show_025'",
+    "can_plant": 1
+  },
+  "1350030020": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030020,
+    "name": "荷包草种子",
+    "harvest_item": 0,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 10800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 10800
+      }
+    ],
+    "harvest_cfg_id": 1350030020,
+    "estimate_harvests": "1",
+    "estimate_harvests_money": "-",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_60/S_NHNature_Shrub_60.S_NHNature_Shrub_60'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_60/S_NHNature_Shrub_60.S_NHNature_Shrub_60'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_026.T_UI_homeplanting_icon_show_026'",
+    "can_plant": 1
+  },
+  "1350030021": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030021,
+    "name": "杯杯香种子",
+    "harvest_item": 0,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 900
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 900
+      }
+    ],
+    "harvest_cfg_id": 1350030021,
+    "estimate_harvests": "1-5",
+    "estimate_harvests_money": "150-240",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_62/S_NHNature_Shrub_62.S_NHNature_Shrub_62'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_55a/S_NHNature_Shrub_55a.S_NHNature_Shrub_55a'",
+    "variant_seeds": [
+      1350030022,
+      1350030023,
+      1350030024,
+      1350030025
+    ],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_001_1.T_UI_homeplanting_icon_show_001_1'",
+    "can_plant": 1
+  },
+  "1350030022": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030022,
+    "name": "明黄杯杯香",
+    "harvest_item": 1350030026,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 900
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 900
+      }
+    ],
+    "harvest_cfg_id": 1350030022,
+    "estimate_harvests": "5",
+    "estimate_harvests_money": "150-180",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_62/S_NHNature_Shrub_62.S_NHNature_Shrub_62'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_55a/S_NHNature_Shrub_55a.S_NHNature_Shrub_55a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_001.T_UI_homeplanting_icon_show_001'",
+    "can_plant": 1
+  },
+  "1350030023": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030023,
+    "name": "洋红杯杯香",
+    "harvest_item": 1350030027,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 900
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 900
+      }
+    ],
+    "harvest_cfg_id": 1350030023,
+    "estimate_harvests": "4",
+    "estimate_harvests_money": "160-200",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_62/S_NHNature_Shrub_62.S_NHNature_Shrub_62'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_55a/S_NHNature_Shrub_55a.S_NHNature_Shrub_55a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_00101.T_UI_homeplanting_icon_show_00101'",
+    "can_plant": 1
+  },
+  "1350030024": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030024,
+    "name": "榴红杯杯香",
+    "harvest_item": 1350030028,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 900
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 900
+      }
+    ],
+    "harvest_cfg_id": 1350030024,
+    "estimate_harvests": "3",
+    "estimate_harvests_money": "180-240",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_62/S_NHNature_Shrub_62.S_NHNature_Shrub_62'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_55a/S_NHNature_Shrub_55a.S_NHNature_Shrub_55a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_00102.T_UI_homeplanting_icon_show_00102'",
+    "can_plant": 1
+  },
+  "1350030025": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030025,
+    "name": "瑰霞双色杯杯香",
+    "harvest_item": 1350030029,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 900
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 900
+      }
+    ],
+    "harvest_cfg_id": 1350030025,
+    "estimate_harvests": "1",
+    "estimate_harvests_money": "240",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_62/S_NHNature_Shrub_62.S_NHNature_Shrub_62'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_55a/S_NHNature_Shrub_55a.S_NHNature_Shrub_55a'",
+    "variant_seeds": [],
+    "show_photo": "",
+    "can_plant": 0
+  },
+  "1350030033": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030033,
+    "name": "铃铃草种子",
+    "harvest_item": 0,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 1800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 1800
+      }
+    ],
+    "harvest_cfg_id": 1350030033,
+    "estimate_harvests": "1-10",
+    "estimate_harvests_money": "300-480",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_62/S_NHNature_Shrub_62.S_NHNature_Shrub_62'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_36a/S_NHNature_Shrub_36a.S_NHNature_Shrub_36a'",
+    "variant_seeds": [
+      1350030034,
+      1350030035,
+      1350030036,
+      1350030037
+    ],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_002_1.T_UI_homeplanting_icon_show_002_1'",
+    "can_plant": 1
+  },
+  "1350030034": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030034,
+    "name": "霜白铃铃草",
+    "harvest_item": 1350030038,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 1800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 1800
+      }
+    ],
+    "harvest_cfg_id": 1350030034,
+    "estimate_harvests": "10",
+    "estimate_harvests_money": "300-360",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_62/S_NHNature_Shrub_62.S_NHNature_Shrub_62'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_36a/S_NHNature_Shrub_36a.S_NHNature_Shrub_36a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_002.T_UI_homeplanting_icon_show_002'",
+    "can_plant": 1
+  },
+  "1350030035": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030035,
+    "name": "湖蓝铃铃草",
+    "harvest_item": 1350030039,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 1800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 1800
+      }
+    ],
+    "harvest_cfg_id": 1350030035,
+    "estimate_harvests": "8",
+    "estimate_harvests_money": "320-400",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_62/S_NHNature_Shrub_62.S_NHNature_Shrub_62'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_36a/S_NHNature_Shrub_36a.S_NHNature_Shrub_36a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_00201.T_UI_homeplanting_icon_show_00201'",
+    "can_plant": 1
+  },
+  "1350030036": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030036,
+    "name": "黛紫铃铃草",
+    "harvest_item": 1350030040,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 1800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 1800
+      }
+    ],
+    "harvest_cfg_id": 1350030036,
+    "estimate_harvests": "6",
+    "estimate_harvests_money": "360-480",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_62/S_NHNature_Shrub_62.S_NHNature_Shrub_62'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_36a/S_NHNature_Shrub_36a.S_NHNature_Shrub_36a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_00202.T_UI_homeplanting_icon_show_00202'",
+    "can_plant": 1
+  },
+  "1350030037": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030037,
+    "name": "星光双色铃铃草",
+    "harvest_item": 1350030041,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 1800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 1800
+      }
+    ],
+    "harvest_cfg_id": 1350030037,
+    "estimate_harvests": "1",
+    "estimate_harvests_money": "480",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_62/S_NHNature_Shrub_62.S_NHNature_Shrub_62'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_36a/S_NHNature_Shrub_36a.S_NHNature_Shrub_36a'",
+    "variant_seeds": [],
+    "show_photo": "",
+    "can_plant": 0
+  },
+  "1350030045": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030045,
+    "name": "蓬蓬兰种子",
+    "harvest_item": 0,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 3600
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 3600
+      }
+    ],
+    "harvest_cfg_id": 1350030045,
+    "estimate_harvests": "2-10",
+    "estimate_harvests_money": "600-960",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_62/S_NHNature_Shrub_62.S_NHNature_Shrub_62'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_12a/S_NHNature_Shrub_12a.S_NHNature_Shrub_12a'",
+    "variant_seeds": [
+      1350030046,
+      1350030047,
+      1350030048,
+      1350030049
+    ],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_003_1.T_UI_homeplanting_icon_show_003_1'",
+    "can_plant": 1
+  },
+  "1350030046": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030046,
+    "name": "柔粉蓬蓬兰",
+    "harvest_item": 1350030050,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 3600
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 3600
+      }
+    ],
+    "harvest_cfg_id": 1350030046,
+    "estimate_harvests": "10",
+    "estimate_harvests_money": "600-720",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_62/S_NHNature_Shrub_62.S_NHNature_Shrub_62'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_12a/S_NHNature_Shrub_12a.S_NHNature_Shrub_12a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_003.T_UI_homeplanting_icon_show_003'",
+    "can_plant": 1
+  },
+  "1350030047": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030047,
+    "name": "湖蓝蓬蓬兰",
+    "harvest_item": 1350030051,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 3600
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 3600
+      }
+    ],
+    "harvest_cfg_id": 1350030047,
+    "estimate_harvests": "8",
+    "estimate_harvests_money": "640-800",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_62/S_NHNature_Shrub_62.S_NHNature_Shrub_62'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_12a/S_NHNature_Shrub_12a.S_NHNature_Shrub_12a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_00301.T_UI_homeplanting_icon_show_00301'",
+    "can_plant": 1
+  },
+  "1350030048": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030048,
+    "name": "橙紫双色蓬蓬兰",
+    "harvest_item": 1350030052,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 3600
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 3600
+      }
+    ],
+    "harvest_cfg_id": 1350030048,
+    "estimate_harvests": "6",
+    "estimate_harvests_money": "720-960",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_62/S_NHNature_Shrub_62.S_NHNature_Shrub_62'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_12a/S_NHNature_Shrub_12a.S_NHNature_Shrub_12a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_00302.T_UI_homeplanting_icon_show_00302'",
+    "can_plant": 1
+  },
+  "1350030049": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030049,
+    "name": "锦绣双色蓬蓬兰",
+    "harvest_item": 1350030053,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 3600
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 3600
+      }
+    ],
+    "harvest_cfg_id": 1350030049,
+    "estimate_harvests": "2",
+    "estimate_harvests_money": "960",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_62/S_NHNature_Shrub_62.S_NHNature_Shrub_62'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_12a/S_NHNature_Shrub_12a.S_NHNature_Shrub_12a'",
+    "variant_seeds": [],
+    "show_photo": "",
+    "can_plant": 0
+  },
+  "1350030057": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030057,
+    "name": "团团花种子",
+    "harvest_item": 0,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 10800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 10800
+      }
+    ],
+    "harvest_cfg_id": 1350030057,
+    "estimate_harvests": "2-15",
+    "estimate_harvests_money": "1800-2880",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_62/S_NHNature_Shrub_62.S_NHNature_Shrub_62'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_63a/S_NHNature_Shrub_63a.S_NHNature_Shrub_63a'",
+    "variant_seeds": [
+      1350030058,
+      1350030059,
+      1350030060,
+      1350030061
+    ],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_004_1.T_UI_homeplanting_icon_show_004_1'",
+    "can_plant": 1
+  },
+  "1350030058": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030058,
+    "name": "湖蓝团团花",
+    "harvest_item": 1350030062,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 10800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 10800
+      }
+    ],
+    "harvest_cfg_id": 1350030058,
+    "estimate_harvests": "15",
+    "estimate_harvests_money": "1800-2160",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_62/S_NHNature_Shrub_62.S_NHNature_Shrub_62'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_63a/S_NHNature_Shrub_63a.S_NHNature_Shrub_63a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_004.T_UI_homeplanting_icon_show_004'",
+    "can_plant": 1
+  },
+  "1350030059": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030059,
+    "name": "柔粉团团花",
+    "harvest_item": 1350030063,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 10800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 10800
+      }
+    ],
+    "harvest_cfg_id": 1350030059,
+    "estimate_harvests": "12",
+    "estimate_harvests_money": "1920-2400",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_62/S_NHNature_Shrub_62.S_NHNature_Shrub_62'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_63a/S_NHNature_Shrub_63a.S_NHNature_Shrub_63a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_00401.T_UI_homeplanting_icon_show_00401'",
+    "can_plant": 1
+  },
+  "1350030060": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030060,
+    "name": "蜜粉双色团团花",
+    "harvest_item": 1350030064,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 10800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 10800
+      }
+    ],
+    "harvest_cfg_id": 1350030060,
+    "estimate_harvests": "9",
+    "estimate_harvests_money": "2160-2880",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_62/S_NHNature_Shrub_62.S_NHNature_Shrub_62'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_63a/S_NHNature_Shrub_63a.S_NHNature_Shrub_63a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_00402.T_UI_homeplanting_icon_show_00402'",
+    "can_plant": 1
+  },
+  "1350030061": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030061,
+    "name": "暮光双色团团花",
+    "harvest_item": 1350030065,
+    "species": 2,
+    "compatible_farmland": [
+      1170000320
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 10800
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 10800
+      }
+    ],
+    "harvest_cfg_id": 1350030061,
+    "estimate_harvests": "2",
+    "estimate_harvests_money": "2880",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_62/S_NHNature_Shrub_62.S_NHNature_Shrub_62'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_63a/S_NHNature_Shrub_63a.S_NHNature_Shrub_63a'",
+    "variant_seeds": [],
+    "show_photo": "",
+    "can_plant": 0
+  },
+  "1350030069": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030069,
+    "name": "叮当果树种子",
+    "harvest_item": 0,
+    "species": 1,
+    "compatible_farmland": [
+      1170000321
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 18000
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 18000
+      }
+    ],
+    "harvest_cfg_id": 1350030069,
+    "estimate_harvests": "3",
+    "estimate_harvests_money": "3100-4940",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_79/S_NHNature_Shrub_79.S_NHNature_Shrub_79'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_sakura_18m_01a/S_NHNature_sakura_18m_01a.S_NHNature_sakura_18m_01a'",
+    "variant_seeds": [
+      1350030070,
+      1350030071,
+      1350030072
+    ],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_005_1.T_UI_homeplanting_icon_show_005_1'",
+    "can_plant": 1
+  },
+  "1350030070": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030070,
+    "name": "明黄叮当果树",
+    "harvest_item": 1350030074,
+    "species": 1,
+    "compatible_farmland": [
+      1170000321
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 18000
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 18000
+      }
+    ],
+    "harvest_cfg_id": 1350030070,
+    "estimate_harvests": "3",
+    "estimate_harvests_money": "3100-3760",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_79/S_NHNature_Shrub_79.S_NHNature_Shrub_79'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_sakura_18m_01a/S_NHNature_sakura_18m_01a.S_NHNature_sakura_18m_01a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_005.T_UI_homeplanting_icon_show_005'",
+    "can_plant": 1
+  },
+  "1350030071": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030071,
+    "name": "薄紫叮当果树",
+    "harvest_item": 1350030075,
+    "species": 1,
+    "compatible_farmland": [
+      1170000321
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 18000
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 18000
+      }
+    ],
+    "harvest_cfg_id": 1350030071,
+    "estimate_harvests": "3",
+    "estimate_harvests_money": "3300-4140",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_79/S_NHNature_Shrub_79.S_NHNature_Shrub_79'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_sakura_18m_01a/S_NHNature_sakura_18m_01a.S_NHNature_sakura_18m_01a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_00501.T_UI_homeplanting_icon_show_00501'",
+    "can_plant": 1
+  },
+  "1350030072": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030072,
+    "name": "柔粉叮当果树",
+    "harvest_item": 1350030076,
+    "species": 1,
+    "compatible_farmland": [
+      1170000321
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 18000
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 18000
+      }
+    ],
+    "harvest_cfg_id": 1350030072,
+    "estimate_harvests": "3",
+    "estimate_harvests_money": "3650-4940",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_79/S_NHNature_Shrub_79.S_NHNature_Shrub_79'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_sakura_18m_01a/S_NHNature_sakura_18m_01a.S_NHNature_sakura_18m_01a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_00502.T_UI_homeplanting_icon_show_00502'",
+    "can_plant": 1
+  },
+  "1350030081": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030081,
+    "name": "织云木种子",
+    "harvest_item": 0,
+    "species": 1,
+    "compatible_farmland": [
+      1170000322
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 36000
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 36000
+      }
+    ],
+    "harvest_cfg_id": 1350030081,
+    "estimate_harvests": "3",
+    "estimate_harvests_money": "5850-8900",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_79/S_NHNature_Shrub_79.S_NHNature_Shrub_79'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_sakura_18m_01a/S_NHNature_sakura_18m_01a.S_NHNature_sakura_18m_01a'",
+    "variant_seeds": [
+      1350030082,
+      1350030083,
+      1350030084
+    ],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_006_1.T_UI_homeplanting_icon_show_006_1'",
+    "can_plant": 1
+  },
+  "1350030082": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030082,
+    "name": "柔粉织云木",
+    "harvest_item": 1350030086,
+    "species": 1,
+    "compatible_farmland": [
+      1170000322
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 36000
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 36000
+      }
+    ],
+    "harvest_cfg_id": 1350030082,
+    "estimate_harvests": "3",
+    "estimate_harvests_money": "5850-7050",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_79/S_NHNature_Shrub_79.S_NHNature_Shrub_79'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_sakura_18m_01a/S_NHNature_sakura_18m_01a.S_NHNature_sakura_18m_01a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_006.T_UI_homeplanting_icon_show_006'",
+    "can_plant": 1
+  },
+  "1350030083": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030083,
+    "name": "薄紫织云木",
+    "harvest_item": 1350030087,
+    "species": 1,
+    "compatible_farmland": [
+      1170000322
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 36000
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 36000
+      }
+    ],
+    "harvest_cfg_id": 1350030083,
+    "estimate_harvests": "3",
+    "estimate_harvests_money": "6100-7660",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_79/S_NHNature_Shrub_79.S_NHNature_Shrub_79'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_sakura_18m_01a/S_NHNature_sakura_18m_01a.S_NHNature_sakura_18m_01a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_00601.T_UI_homeplanting_icon_show_00601'",
+    "can_plant": 1
+  },
+  "1350030084": {
+    "_name": "homenew.PlantingGrowthProcess",
+    "_id": 913354852,
+    "seed": 1350030084,
+    "name": "岚绿织云木",
+    "harvest_item": 1350030088,
+    "species": 1,
+    "compatible_farmland": [
+      1170000322
+    ],
+    "growth_stages": [
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 1,
+        "duration": 36000
+      },
+      {
+        "_name": "homenew.PlantingGrowthStage",
+        "_id": 799297075,
+        "stage": 2,
+        "duration": 36000
+      }
+    ],
+    "harvest_cfg_id": 1350030084,
+    "estimate_harvests": "3",
+    "estimate_harvests_money": "6650-8900",
+    "model_seed": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_Shrub_79/S_NHNature_Shrub_79.S_NHNature_Shrub_79'",
+    "model_growth": "/Script/Engine.StaticMesh'/Game/UI/SysHome/Assets/NHNature/S_NHNature_sakura_18m_01a/S_NHNature_sakura_18m_01a.S_NHNature_sakura_18m_01a'",
+    "variant_seeds": [],
+    "show_photo": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Plant/PlantListPic/T_UI_homeplanting_icon_show_00602.T_UI_homeplanting_icon_show_00602'",
+    "can_plant": 1
+  }
+}
