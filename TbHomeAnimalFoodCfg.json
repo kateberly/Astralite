@@ -1,0 +1,16 @@
+{
+  "1350050478": {
+    "_name": "homenew.HomeAnimalFoodCfg",
+    "_id": 1717480062,
+    "food_id": 1350050478,
+    "food_num": 100,
+    "buy": 1
+  },
+  "1350050479": {
+    "_name": "homenew.HomeAnimalFoodCfg",
+    "_id": 1717480062,
+    "food_id": 1350050479,
+    "food_num": 400,
+    "buy": 1
+  }
+}

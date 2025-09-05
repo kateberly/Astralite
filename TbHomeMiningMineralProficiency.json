@@ -1,0 +1,358 @@
+{
+  "1": {
+    "1": {
+      "_name": "homenew.HomeMiningMineralProficiency",
+      "_id": 657204775,
+      "mineral_id": 1,
+      "proficiency_level": 1,
+      "icon_Path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Stars/T_UI_homestar_icon_star_001.T_UI_homestar_icon_star_001'",
+      "proficiency_upgrade_condition": null,
+      "ns_Path": "/Game/UI/SysHome/VFX/NS/Starlight/NS_StarlightYellow.NS_StarlightYellow",
+      "rewards": [
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350080009,
+          "num": 2
+        },
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350000001,
+          "num": 10
+        }
+      ],
+      "reward": {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350080009,
+        "num": 2
+      }
+    },
+    "2": {
+      "_name": "homenew.HomeMiningMineralProficiency",
+      "_id": 657204775,
+      "mineral_id": 1,
+      "proficiency_level": 2,
+      "icon_Path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Stars/T_UI_homestar_icon_star_001.T_UI_homestar_icon_star_001'",
+      "proficiency_upgrade_condition": 5109010041,
+      "ns_Path": "/Game/UI/SysHome/VFX/NS/Starlight/NS_StarlightYellow.NS_StarlightYellow",
+      "rewards": [
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350080009,
+          "num": 3
+        },
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350000001,
+          "num": 10
+        }
+      ],
+      "reward": {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350080009,
+        "num": 3
+      }
+    },
+    "3": {
+      "_name": "homenew.HomeMiningMineralProficiency",
+      "_id": 657204775,
+      "mineral_id": 1,
+      "proficiency_level": 3,
+      "icon_Path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Stars/T_UI_homestar_icon_star_001.T_UI_homestar_icon_star_001'",
+      "proficiency_upgrade_condition": 5109010042,
+      "ns_Path": "/Game/UI/SysHome/VFX/NS/Starlight/NS_StarlightYellow.NS_StarlightYellow",
+      "rewards": [
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350080009,
+          "num": 4
+        },
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350000001,
+          "num": 10
+        }
+      ],
+      "reward": {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350080009,
+        "num": 4
+      }
+    }
+  },
+  "2": {
+    "1": {
+      "_name": "homenew.HomeMiningMineralProficiency",
+      "_id": 657204775,
+      "mineral_id": 2,
+      "proficiency_level": 1,
+      "icon_Path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Stars/T_UI_homestar_icon_star_002.T_UI_homestar_icon_star_002'",
+      "proficiency_upgrade_condition": null,
+      "ns_Path": "/Game/UI/SysHome/VFX/NS/Starlight/NS_StarlightGreen.NS_StarlightGreen",
+      "rewards": [
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350080010,
+          "num": 2
+        },
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350000001,
+          "num": 10
+        }
+      ],
+      "reward": {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350080010,
+        "num": 2
+      }
+    },
+    "2": {
+      "_name": "homenew.HomeMiningMineralProficiency",
+      "_id": 657204775,
+      "mineral_id": 2,
+      "proficiency_level": 2,
+      "icon_Path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Stars/T_UI_homestar_icon_star_002.T_UI_homestar_icon_star_002'",
+      "proficiency_upgrade_condition": 5109010043,
+      "ns_Path": "/Game/UI/SysHome/VFX/NS/Starlight/NS_StarlightGreen.NS_StarlightGreen",
+      "rewards": [
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350080010,
+          "num": 3
+        },
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350000001,
+          "num": 10
+        }
+      ],
+      "reward": {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350080010,
+        "num": 3
+      }
+    },
+    "3": {
+      "_name": "homenew.HomeMiningMineralProficiency",
+      "_id": 657204775,
+      "mineral_id": 2,
+      "proficiency_level": 3,
+      "icon_Path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Stars/T_UI_homestar_icon_star_002.T_UI_homestar_icon_star_002'",
+      "proficiency_upgrade_condition": 5109010044,
+      "ns_Path": "/Game/UI/SysHome/VFX/NS/Starlight/NS_StarlightGreen.NS_StarlightGreen",
+      "rewards": [
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350080010,
+          "num": 4
+        },
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350000001,
+          "num": 10
+        }
+      ],
+      "reward": {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350080010,
+        "num": 4
+      }
+    }
+  },
+  "3": {
+    "1": {
+      "_name": "homenew.HomeMiningMineralProficiency",
+      "_id": 657204775,
+      "mineral_id": 3,
+      "proficiency_level": 1,
+      "icon_Path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Stars/T_UI_homestar_icon_star_003.T_UI_homestar_icon_star_003'",
+      "proficiency_upgrade_condition": null,
+      "ns_Path": "/Game/UI/SysHome/VFX/NS/Starlight/NS_StarlightBlue.NS_StarlightBlue",
+      "rewards": [
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350080011,
+          "num": 2
+        },
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350000001,
+          "num": 10
+        }
+      ],
+      "reward": {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350080011,
+        "num": 2
+      }
+    },
+    "2": {
+      "_name": "homenew.HomeMiningMineralProficiency",
+      "_id": 657204775,
+      "mineral_id": 3,
+      "proficiency_level": 2,
+      "icon_Path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Stars/T_UI_homestar_icon_star_003.T_UI_homestar_icon_star_003'",
+      "proficiency_upgrade_condition": 5109010134,
+      "ns_Path": "/Game/UI/SysHome/VFX/NS/Starlight/NS_StarlightBlue.NS_StarlightBlue",
+      "rewards": [
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350080011,
+          "num": 3
+        },
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350000001,
+          "num": 10
+        }
+      ],
+      "reward": {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350080011,
+        "num": 3
+      }
+    },
+    "3": {
+      "_name": "homenew.HomeMiningMineralProficiency",
+      "_id": 657204775,
+      "mineral_id": 3,
+      "proficiency_level": 3,
+      "icon_Path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Stars/T_UI_homestar_icon_star_003.T_UI_homestar_icon_star_003'",
+      "proficiency_upgrade_condition": 5109010135,
+      "ns_Path": "/Game/UI/SysHome/VFX/NS/Starlight/NS_StarlightBlue.NS_StarlightBlue",
+      "rewards": [
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350080011,
+          "num": 4
+        },
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350000001,
+          "num": 10
+        }
+      ],
+      "reward": {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350080011,
+        "num": 4
+      }
+    }
+  },
+  "4": {
+    "1": {
+      "_name": "homenew.HomeMiningMineralProficiency",
+      "_id": 657204775,
+      "mineral_id": 4,
+      "proficiency_level": 1,
+      "icon_Path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Stars/T_UI_homestar_icon_star_004.T_UI_homestar_icon_star_004'",
+      "proficiency_upgrade_condition": null,
+      "ns_Path": "/Game/UI/SysHome/VFX/NS/Starlight/NS_StarlightRed.NS_StarlightRed",
+      "rewards": [
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350080012,
+          "num": 2
+        },
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350000001,
+          "num": 10
+        }
+      ],
+      "reward": {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350080012,
+        "num": 2
+      }
+    },
+    "2": {
+      "_name": "homenew.HomeMiningMineralProficiency",
+      "_id": 657204775,
+      "mineral_id": 4,
+      "proficiency_level": 2,
+      "icon_Path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Stars/T_UI_homestar_icon_star_004.T_UI_homestar_icon_star_004'",
+      "proficiency_upgrade_condition": 5109010136,
+      "ns_Path": "/Game/UI/SysHome/VFX/NS/Starlight/NS_StarlightRed.NS_StarlightRed",
+      "rewards": [
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350080012,
+          "num": 3
+        },
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350000001,
+          "num": 10
+        }
+      ],
+      "reward": {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350080012,
+        "num": 3
+      }
+    },
+    "3": {
+      "_name": "homenew.HomeMiningMineralProficiency",
+      "_id": 657204775,
+      "mineral_id": 4,
+      "proficiency_level": 3,
+      "icon_Path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Stars/T_UI_homestar_icon_star_004.T_UI_homestar_icon_star_004'",
+      "proficiency_upgrade_condition": 5109010137,
+      "ns_Path": "/Game/UI/SysHome/VFX/NS/Starlight/NS_StarlightRed.NS_StarlightRed",
+      "rewards": [
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350080012,
+          "num": 4
+        },
+        {
+          "_name": "homenew.RewardInfo",
+          "_id": -1428387766,
+          "item_id": 1350000001,
+          "num": 10
+        }
+      ],
+      "reward": {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350080012,
+        "num": 4
+      }
+    }
+  }
+}

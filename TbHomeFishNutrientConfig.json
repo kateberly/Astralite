@@ -1,0 +1,57 @@
+{
+  "1350071001": {
+    "_name": "homenew.HomeFishNutrientConfig",
+    "_id": -540685811,
+    "id": 1350071001,
+    "consume_count": 0,
+    "accelerate_time": 1200,
+    "use_interval": 3600,
+    "weight_improve": 0.0,
+    "add_fish_probability": 0.0,
+    "l10ndes": "FishNutrientDesc_1350071001"
+  },
+  "1350071002": {
+    "_name": "homenew.HomeFishNutrientConfig",
+    "_id": -540685811,
+    "id": 1350071002,
+    "consume_count": 1,
+    "accelerate_time": 3600,
+    "use_interval": 10800,
+    "weight_improve": 0.0,
+    "add_fish_probability": 0.009999999776482582,
+    "l10ndes": "FishNutrientDesc_1350071002"
+  },
+  "1350071003": {
+    "_name": "homenew.HomeFishNutrientConfig",
+    "_id": -540685811,
+    "id": 1350071003,
+    "consume_count": 1,
+    "accelerate_time": 5400,
+    "use_interval": 14400,
+    "weight_improve": 0.0,
+    "add_fish_probability": 0.019999999552965164,
+    "l10ndes": "FishNutrientDesc_1350071003"
+  },
+  "1350071004": {
+    "_name": "homenew.HomeFishNutrientConfig",
+    "_id": -540685811,
+    "id": 1350071004,
+    "consume_count": 1,
+    "accelerate_time": 7200,
+    "use_interval": 18000,
+    "weight_improve": 0.05000000074505806,
+    "add_fish_probability": 0.03999999910593033,
+    "l10ndes": "FishNutrientDesc_1350071004"
+  },
+  "1350071005": {
+    "_name": "homenew.HomeFishNutrientConfig",
+    "_id": -540685811,
+    "id": 1350071005,
+    "consume_count": 1,
+    "accelerate_time": 10800,
+    "use_interval": 25200,
+    "weight_improve": 0.10000000149011612,
+    "add_fish_probability": 0.05999999865889549,
+    "l10ndes": "FishNutrientDesc_1350071005"
+  }
+}

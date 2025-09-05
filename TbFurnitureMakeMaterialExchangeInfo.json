@@ -1,0 +1,332 @@
+{
+  "1350030026": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030026,
+    "exchange_ratio": 45
+  },
+  "1350030027": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030027,
+    "exchange_ratio": 60
+  },
+  "1350030028": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030028,
+    "exchange_ratio": 90
+  },
+  "1350030030": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030030,
+    "exchange_ratio": 45
+  },
+  "1350030031": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030031,
+    "exchange_ratio": 60
+  },
+  "1350030032": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030032,
+    "exchange_ratio": 90
+  },
+  "1350030038": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030038,
+    "exchange_ratio": 45
+  },
+  "1350030039": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030039,
+    "exchange_ratio": 60
+  },
+  "1350030040": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030040,
+    "exchange_ratio": 90
+  },
+  "1350030042": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030042,
+    "exchange_ratio": 90
+  },
+  "1350030043": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030043,
+    "exchange_ratio": 120
+  },
+  "1350030044": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030044,
+    "exchange_ratio": 180
+  },
+  "1350030050": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030050,
+    "exchange_ratio": 90
+  },
+  "1350030051": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030051,
+    "exchange_ratio": 120
+  },
+  "1350030052": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030052,
+    "exchange_ratio": 180
+  },
+  "1350030054": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030054,
+    "exchange_ratio": 180
+  },
+  "1350030055": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030055,
+    "exchange_ratio": 240
+  },
+  "1350030056": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030056,
+    "exchange_ratio": 360
+  },
+  "1350030062": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030062,
+    "exchange_ratio": 180
+  },
+  "1350030063": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030063,
+    "exchange_ratio": 240
+  },
+  "1350030064": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030064,
+    "exchange_ratio": 360
+  },
+  "1350030066": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030066,
+    "exchange_ratio": 540
+  },
+  "1350030067": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030067,
+    "exchange_ratio": 720
+  },
+  "1350030068": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030068,
+    "exchange_ratio": 1080
+  },
+  "1350030074": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030074,
+    "exchange_ratio": 1200
+  },
+  "1350030075": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030075,
+    "exchange_ratio": 1275
+  },
+  "1350030076": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030076,
+    "exchange_ratio": 1425
+  },
+  "1350030078": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030078,
+    "exchange_ratio": 330
+  },
+  "1350030079": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030079,
+    "exchange_ratio": 420
+  },
+  "1350030080": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030080,
+    "exchange_ratio": 645
+  },
+  "1350030086": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030086,
+    "exchange_ratio": 2175
+  },
+  "1350030087": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030087,
+    "exchange_ratio": 2250
+  },
+  "1350030088": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030088,
+    "exchange_ratio": 2475
+  },
+  "1350030090": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030090,
+    "exchange_ratio": 600
+  },
+  "1350030091": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030091,
+    "exchange_ratio": 780
+  },
+  "1350030092": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350030092,
+    "exchange_ratio": 1125
+  },
+  "1350080009": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350080009,
+    "exchange_ratio": 120
+  },
+  "1350080010": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350080010,
+    "exchange_ratio": 180
+  },
+  "1350080011": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350080011,
+    "exchange_ratio": 300
+  },
+  "1350080012": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350080012,
+    "exchange_ratio": 675
+  },
+  "1110010196": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1110010196,
+    "exchange_ratio": 270
+  },
+  "1110010197": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1110010197,
+    "exchange_ratio": 90
+  },
+  "1110010198": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1110010198,
+    "exchange_ratio": 240
+  },
+  "1110010199": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1110010199,
+    "exchange_ratio": 60
+  },
+  "1110010200": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1110010200,
+    "exchange_ratio": 450
+  },
+  "1110030196": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1110030196,
+    "exchange_ratio": 810
+  },
+  "1110030197": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1110030197,
+    "exchange_ratio": 270
+  },
+  "1110030198": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1110030198,
+    "exchange_ratio": 480
+  },
+  "1110030199": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1110030199,
+    "exchange_ratio": 120
+  },
+  "1110030200": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1110030200,
+    "exchange_ratio": 1350
+  },
+  "1350050480": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350050480,
+    "exchange_ratio": 18
+  },
+  "1350050481": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350050481,
+    "exchange_ratio": 18
+  },
+  "1350050482": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350050482,
+    "exchange_ratio": 18
+  },
+  "1350050483": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350050483,
+    "exchange_ratio": 45
+  },
+  "1350050484": {
+    "_name": "homenew.FurnitureMakeMaterialExchangeInfo",
+    "_id": -202110229,
+    "material_item_id": 1350050484,
+    "exchange_ratio": 45
+  }
+}

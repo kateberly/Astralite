@@ -1,0 +1,652 @@
+{
+  "1": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 1,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 60
+    },
+    "goldtree_afk_max": 4500,
+    "gold_weekmax": 0
+  },
+  "2": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 2,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 60
+    },
+    "goldtree_afk_max": 4500,
+    "gold_weekmax": 0
+  },
+  "3": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 3,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 60
+    },
+    "goldtree_afk_max": 4500,
+    "gold_weekmax": 0
+  },
+  "4": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 4,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 60
+    },
+    "goldtree_afk_max": 4500,
+    "gold_weekmax": 0
+  },
+  "5": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 5,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 100
+    },
+    "goldtree_afk_max": 7500,
+    "gold_weekmax": 50000
+  },
+  "6": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 6,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 100
+    },
+    "goldtree_afk_max": 7500,
+    "gold_weekmax": 50000
+  },
+  "7": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 7,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 100
+    },
+    "goldtree_afk_max": 7500,
+    "gold_weekmax": 50000
+  },
+  "8": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 8,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 100
+    },
+    "goldtree_afk_max": 7500,
+    "gold_weekmax": 50000
+  },
+  "9": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 9,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 100
+    },
+    "goldtree_afk_max": 7500,
+    "gold_weekmax": 50000
+  },
+  "10": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 10,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 100
+    },
+    "goldtree_afk_max": 7500,
+    "gold_weekmax": 100000
+  },
+  "11": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 11,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 100
+    },
+    "goldtree_afk_max": 7500,
+    "gold_weekmax": 100000
+  },
+  "12": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 12,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 100
+    },
+    "goldtree_afk_max": 7500,
+    "gold_weekmax": 100000
+  },
+  "13": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 13,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 100
+    },
+    "goldtree_afk_max": 7500,
+    "gold_weekmax": 100000
+  },
+  "14": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 14,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 100
+    },
+    "goldtree_afk_max": 7500,
+    "gold_weekmax": 100000
+  },
+  "15": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 15,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 150
+    },
+    "goldtree_afk_max": 10800,
+    "gold_weekmax": 150000
+  },
+  "16": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 16,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 150
+    },
+    "goldtree_afk_max": 10800,
+    "gold_weekmax": 150000
+  },
+  "17": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 17,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 150
+    },
+    "goldtree_afk_max": 10800,
+    "gold_weekmax": 150000
+  },
+  "18": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 18,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 150
+    },
+    "goldtree_afk_max": 10800,
+    "gold_weekmax": 150000
+  },
+  "19": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 19,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 150
+    },
+    "goldtree_afk_max": 10800,
+    "gold_weekmax": 150000
+  },
+  "20": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 20,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 150
+    },
+    "goldtree_afk_max": 10800,
+    "gold_weekmax": 200000
+  },
+  "21": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 21,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 150
+    },
+    "goldtree_afk_max": 10800,
+    "gold_weekmax": 200000
+  },
+  "22": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 22,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 150
+    },
+    "goldtree_afk_max": 10800,
+    "gold_weekmax": 200000
+  },
+  "23": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 23,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 150
+    },
+    "goldtree_afk_max": 10800,
+    "gold_weekmax": 200000
+  },
+  "24": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 24,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 150
+    },
+    "goldtree_afk_max": 10800,
+    "gold_weekmax": 200000
+  },
+  "25": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 25,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 200
+    },
+    "goldtree_afk_max": 14400,
+    "gold_weekmax": 300000
+  },
+  "26": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 26,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 200
+    },
+    "goldtree_afk_max": 14400,
+    "gold_weekmax": 300000
+  },
+  "27": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 27,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 200
+    },
+    "goldtree_afk_max": 14400,
+    "gold_weekmax": 300000
+  },
+  "28": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 28,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 200
+    },
+    "goldtree_afk_max": 14400,
+    "gold_weekmax": 300000
+  },
+  "29": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 29,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 200
+    },
+    "goldtree_afk_max": 14400,
+    "gold_weekmax": 300000
+  },
+  "30": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 30,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 200
+    },
+    "goldtree_afk_max": 14400,
+    "gold_weekmax": 400000
+  },
+  "31": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 31,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 200
+    },
+    "goldtree_afk_max": 14400,
+    "gold_weekmax": 400000
+  },
+  "32": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 32,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 200
+    },
+    "goldtree_afk_max": 14400,
+    "gold_weekmax": 400000
+  },
+  "33": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 33,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 200
+    },
+    "goldtree_afk_max": 14400,
+    "gold_weekmax": 400000
+  },
+  "34": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 34,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 200
+    },
+    "goldtree_afk_max": 14400,
+    "gold_weekmax": 400000
+  },
+  "35": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 35,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 250
+    },
+    "goldtree_afk_max": 18000,
+    "gold_weekmax": 400000
+  },
+  "36": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 36,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 250
+    },
+    "goldtree_afk_max": 18000,
+    "gold_weekmax": 400000
+  },
+  "37": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 37,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 250
+    },
+    "goldtree_afk_max": 18000,
+    "gold_weekmax": 400000
+  },
+  "38": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 38,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 250
+    },
+    "goldtree_afk_max": 18000,
+    "gold_weekmax": 400000
+  },
+  "39": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 39,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 250
+    },
+    "goldtree_afk_max": 18000,
+    "gold_weekmax": 400000
+  },
+  "40": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 40,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 250
+    },
+    "goldtree_afk_max": 18000,
+    "gold_weekmax": 400000
+  },
+  "41": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 41,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 250
+    },
+    "goldtree_afk_max": 18000,
+    "gold_weekmax": 400000
+  },
+  "42": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 42,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 250
+    },
+    "goldtree_afk_max": 18000,
+    "gold_weekmax": 400000
+  },
+  "43": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 43,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 250
+    },
+    "goldtree_afk_max": 18000,
+    "gold_weekmax": 400000
+  },
+  "44": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 44,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 250
+    },
+    "goldtree_afk_max": 18000,
+    "gold_weekmax": 400000
+  },
+  "45": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 45,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 300
+    },
+    "goldtree_afk_max": 21600,
+    "gold_weekmax": 400000
+  },
+  "46": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 46,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 300
+    },
+    "goldtree_afk_max": 21600,
+    "gold_weekmax": 400000
+  },
+  "47": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 47,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 300
+    },
+    "goldtree_afk_max": 21600,
+    "gold_weekmax": 400000
+  },
+  "48": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 48,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 300
+    },
+    "goldtree_afk_max": 21600,
+    "gold_weekmax": 400000
+  },
+  "49": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 49,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 300
+    },
+    "goldtree_afk_max": 21600,
+    "gold_weekmax": 400000
+  },
+  "50": {
+    "_name": "homenew.HomeAbilityTotalLevelValueInfo",
+    "_id": -448917247,
+    "level": 50,
+    "goldtree_afk_cycle": {
+      "_name": "homenew.AFKHomeCoinCycleInfo",
+      "_id": 1609799627,
+      "time": 3600,
+      "num": 300
+    },
+    "goldtree_afk_max": 21600,
+    "gold_weekmax": 400000
+  }
+}

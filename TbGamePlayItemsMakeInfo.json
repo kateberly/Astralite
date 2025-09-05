@@ -1,0 +1,505 @@
+{
+  "1350010151": {
+    "_name": "homenew.GamePlayItemsMakeInfo",
+    "_id": -1466642167,
+    "id": 1350010151,
+    "furniture_id": 1350050001,
+    "material_consume": [
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350030076,
+        "num": 3
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350030062,
+        "num": 25
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1110010196,
+        "num": 10
+      }
+    ],
+    "time": 240,
+    "tracing_target_make_num_limit": 99,
+    "single_production_num": 1
+  },
+  "1350010152": {
+    "_name": "homenew.GamePlayItemsMakeInfo",
+    "_id": -1466642167,
+    "id": 1350010152,
+    "furniture_id": 1350050146,
+    "material_consume": [
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350030075,
+        "num": 4
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350050484,
+        "num": 60
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1110010196,
+        "num": 15
+      }
+    ],
+    "time": 240,
+    "tracing_target_make_num_limit": 99,
+    "single_production_num": 1
+  },
+  "1350010153": {
+    "_name": "homenew.GamePlayItemsMakeInfo",
+    "_id": -1466642167,
+    "id": 1350010153,
+    "furniture_id": 1350050291,
+    "material_consume": [
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350030074,
+        "num": 4
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350080012,
+        "num": 5
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1110010198,
+        "num": 15
+      }
+    ],
+    "time": 240,
+    "tracing_target_make_num_limit": 99,
+    "single_production_num": 1
+  },
+  "1350010154": {
+    "_name": "homenew.GamePlayItemsMakeInfo",
+    "_id": -1466642167,
+    "id": 1350010154,
+    "furniture_id": 1350050437,
+    "material_consume": [
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350030088,
+        "num": 6
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1110010196,
+        "num": 20
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350050484,
+        "num": 50
+      }
+    ],
+    "time": 240,
+    "tracing_target_make_num_limit": 99,
+    "single_production_num": 1
+  },
+  "1350010155": {
+    "_name": "homenew.GamePlayItemsMakeInfo",
+    "_id": -1466642167,
+    "id": 1350010155,
+    "furniture_id": 1350050438,
+    "material_consume": [
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350030088,
+        "num": 6
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350080012,
+        "num": 10
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350050483,
+        "num": 30
+      }
+    ],
+    "time": 240,
+    "tracing_target_make_num_limit": 99,
+    "single_production_num": 1
+  },
+  "1350010156": {
+    "_name": "homenew.GamePlayItemsMakeInfo",
+    "_id": -1466642167,
+    "id": 1350010156,
+    "furniture_id": 1350050439,
+    "material_consume": [
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350030087,
+        "num": 6
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1110010198,
+        "num": 30
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350050483,
+        "num": 50
+      }
+    ],
+    "time": 240,
+    "tracing_target_make_num_limit": 99,
+    "single_production_num": 1
+  },
+  "1350010157": {
+    "_name": "homenew.GamePlayItemsMakeInfo",
+    "_id": -1466642167,
+    "id": 1350010157,
+    "furniture_id": 1350050440,
+    "material_consume": [
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350030087,
+        "num": 6
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350080012,
+        "num": 10
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350050483,
+        "num": 40
+      }
+    ],
+    "time": 240,
+    "tracing_target_make_num_limit": 99,
+    "single_production_num": 1
+  },
+  "1350010158": {
+    "_name": "homenew.GamePlayItemsMakeInfo",
+    "_id": -1466642167,
+    "id": 1350010158,
+    "furniture_id": 1350050441,
+    "material_consume": [
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350030088,
+        "num": 6
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1110010200,
+        "num": 10
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350050484,
+        "num": 60
+      }
+    ],
+    "time": 240,
+    "tracing_target_make_num_limit": 99,
+    "single_production_num": 1
+  },
+  "1350010159": {
+    "_name": "homenew.GamePlayItemsMakeInfo",
+    "_id": -1466642167,
+    "id": 1350010159,
+    "furniture_id": 1350050442,
+    "material_consume": [
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350030086,
+        "num": 6
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350080012,
+        "num": 10
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350050484,
+        "num": 50
+      }
+    ],
+    "time": 240,
+    "tracing_target_make_num_limit": 99,
+    "single_production_num": 1
+  },
+  "1350010160": {
+    "_name": "homenew.GamePlayItemsMakeInfo",
+    "_id": -1466642167,
+    "id": 1350010160,
+    "furniture_id": 1350050443,
+    "material_consume": [
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350030086,
+        "num": 6
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1110010200,
+        "num": 15
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350050482,
+        "num": 200
+      }
+    ],
+    "time": 240,
+    "tracing_target_make_num_limit": 99,
+    "single_production_num": 1
+  },
+  "1350010161": {
+    "_name": "homenew.GamePlayItemsMakeInfo",
+    "_id": -1466642167,
+    "id": 1350010161,
+    "furniture_id": 1350050444,
+    "material_consume": [
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350030087,
+        "num": 6
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1110010196,
+        "num": 30
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350050481,
+        "num": 100
+      }
+    ],
+    "time": 240,
+    "tracing_target_make_num_limit": 99,
+    "single_production_num": 1
+  },
+  "1350010007": {
+    "_name": "homenew.GamePlayItemsMakeInfo",
+    "_id": -1466642167,
+    "id": 1350010007,
+    "furniture_id": 1350030094,
+    "material_consume": [
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1110010197,
+        "num": 1
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1110010199,
+        "num": 1
+      }
+    ],
+    "time": 30,
+    "tracing_target_make_num_limit": 99,
+    "single_production_num": 1
+  },
+  "1350010008": {
+    "_name": "homenew.GamePlayItemsMakeInfo",
+    "_id": -1466642167,
+    "id": 1350010008,
+    "furniture_id": 1350030095,
+    "material_consume": [
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350050480,
+        "num": 10
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1110010197,
+        "num": 2
+      }
+    ],
+    "time": 60,
+    "tracing_target_make_num_limit": 99,
+    "single_production_num": 1
+  },
+  "1350010009": {
+    "_name": "homenew.GamePlayItemsMakeInfo",
+    "_id": -1466642167,
+    "id": 1350010009,
+    "furniture_id": 1350030096,
+    "material_consume": [
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350050481,
+        "num": 5
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1110010198,
+        "num": 2
+      }
+    ],
+    "time": 120,
+    "tracing_target_make_num_limit": 99,
+    "single_production_num": 1
+  },
+  "1350010010": {
+    "_name": "homenew.GamePlayItemsMakeInfo",
+    "_id": -1466642167,
+    "id": 1350010010,
+    "furniture_id": 1350030097,
+    "material_consume": [
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1110010196,
+        "num": 2
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350050483,
+        "num": 5
+      }
+    ],
+    "time": 180,
+    "tracing_target_make_num_limit": 99,
+    "single_production_num": 1
+  },
+  "1350010384": {
+    "_name": "homenew.GamePlayItemsMakeInfo",
+    "_id": -1466642167,
+    "id": 1350010384,
+    "furniture_id": 1350071002,
+    "material_consume": [
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350030027,
+        "num": 1
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350050480,
+        "num": 5
+      }
+    ],
+    "time": 30,
+    "tracing_target_make_num_limit": 99,
+    "single_production_num": 1
+  },
+  "1350010385": {
+    "_name": "homenew.GamePlayItemsMakeInfo",
+    "_id": -1466642167,
+    "id": 1350010385,
+    "furniture_id": 1350071003,
+    "material_consume": [
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350030038,
+        "num": 2
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350050481,
+        "num": 10
+      }
+    ],
+    "time": 60,
+    "tracing_target_make_num_limit": 99,
+    "single_production_num": 1
+  },
+  "1350010386": {
+    "_name": "homenew.GamePlayItemsMakeInfo",
+    "_id": -1466642167,
+    "id": 1350010386,
+    "furniture_id": 1350071004,
+    "material_consume": [
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350030062,
+        "num": 2
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350050483,
+        "num": 10
+      }
+    ],
+    "time": 120,
+    "tracing_target_make_num_limit": 99,
+    "single_production_num": 1
+  },
+  "1350010387": {
+    "_name": "homenew.GamePlayItemsMakeInfo",
+    "_id": -1466642167,
+    "id": 1350010387,
+    "furniture_id": 1350071005,
+    "material_consume": [
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350030063,
+        "num": 5
+      },
+      {
+        "_name": "homenew.FurnitureMaterial",
+        "_id": 1282248396,
+        "item_id": 1350050484,
+        "num": 30
+      }
+    ],
+    "time": 180,
+    "tracing_target_make_num_limit": 99,
+    "single_production_num": 1
+  }
+}

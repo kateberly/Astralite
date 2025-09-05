@@ -1,0 +1,1428 @@
+{
+  "1201004": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201004,
+    "l10nname": "creature_name_102002",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_ANQ0044.T_icon_head_ANQ0044'",
+    "quality": 1,
+    "animal_type": 1,
+    "unlock_condition": 5109010236,
+    "invitation_id": 1350050455,
+    "music_id": 101,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_FurDog.Play_BGM_AnimalRhythm_FurDog",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 9,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050480,
+            "item_num": 10
+          }
+        ],
+        "collection_id": 1110010092
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 9,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050480,
+            "item_num": 11
+          }
+        ],
+        "collection_id": 1110010092
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 9,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050480,
+            "item_num": 12
+          }
+        ],
+        "collection_id": 1110010092
+      }
+    ],
+    "decoration": 0,
+    "exclusive_design": 0
+  },
+  "1201005": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201005,
+    "l10nname": "creature_name_102003",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_ANQ0053.T_icon_head_ANQ0053'",
+    "quality": 2,
+    "animal_type": 1,
+    "unlock_condition": 5109010255,
+    "invitation_id": 1350050456,
+    "music_id": 201,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_MakeupRabbit.Play_BGM_AnimalRhythm_MakeupRabbit",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 18,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050481,
+            "item_num": 20
+          }
+        ],
+        "collection_id": 1110010095
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 18,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050481,
+            "item_num": 22
+          }
+        ],
+        "collection_id": 1110010095
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 18,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050481,
+            "item_num": 24
+          }
+        ],
+        "collection_id": 1110010095
+      }
+    ],
+    "decoration": 0,
+    "exclusive_design": 0
+  },
+  "1201009": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201009,
+    "l10nname": "creature_name_102004",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_AN0034.T_icon_head_AN0034'",
+    "quality": 3,
+    "animal_type": 2,
+    "unlock_condition": 5109010237,
+    "invitation_id": 1350050457,
+    "music_id": 302,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_WaWaYang.Play_BGM_AnimalRhythm_WaWaYang",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 20
+          }
+        ],
+        "collection_id": 1110010099
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 22
+          }
+        ],
+        "collection_id": 1110010099
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 24
+          }
+        ],
+        "collection_id": 1110010099
+      }
+    ],
+    "decoration": 1350010154,
+    "exclusive_design": 1350010154
+  },
+  "1201011": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201011,
+    "l10nname": "creature_name_102005",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_AN0029.T_icon_head_AN0029'",
+    "quality": 3,
+    "animal_type": 2,
+    "unlock_condition": 5109010237,
+    "invitation_id": 1350050458,
+    "music_id": 303,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_NobleHorse.Play_BGM_AnimalRhythm_NobleHorse",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 20
+          }
+        ],
+        "collection_id": 1110010101
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 22
+          }
+        ],
+        "collection_id": 1110010101
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 24
+          }
+        ],
+        "collection_id": 1110010101
+      }
+    ],
+    "decoration": 1350010155,
+    "exclusive_design": 1350010155
+  },
+  "1201018": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201018,
+    "l10nname": "creature_name_102007",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_AN0072.T_icon_head_AN0072'",
+    "quality": 1,
+    "animal_type": 2,
+    "unlock_condition": 5109010236,
+    "invitation_id": 1350050459,
+    "music_id": 102,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_KnightHorse.Play_BGM_AnimalRhythm_KnightHorse",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 22,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 10
+          }
+        ],
+        "collection_id": 1110010100
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 22,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 11
+          }
+        ],
+        "collection_id": 1110010100
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 22,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 12
+          }
+        ],
+        "collection_id": 1110010100
+      }
+    ],
+    "decoration": 0,
+    "exclusive_design": 0
+  },
+  "1201028": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201028,
+    "l10nname": "creature_name_102008",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_AN0090.T_icon_head_AN0090'",
+    "quality": 1,
+    "animal_type": 1,
+    "unlock_condition": 5109010236,
+    "invitation_id": 1350050460,
+    "music_id": 103,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_GentlemanCat.Play_BGM_AnimalRhythm_GentlemanCat",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 9,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050480,
+            "item_num": 10
+          }
+        ],
+        "collection_id": 1110010112
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 9,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050480,
+            "item_num": 11
+          }
+        ],
+        "collection_id": 1110010112
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 9,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050480,
+            "item_num": 12
+          }
+        ],
+        "collection_id": 1110010112
+      }
+    ],
+    "decoration": 0,
+    "exclusive_design": 0
+  },
+  "1201029": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201029,
+    "l10nname": "creature_name_102009",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_ANQ0056.T_icon_head_ANQ0056'",
+    "quality": 1,
+    "animal_type": 1,
+    "unlock_condition": 5109010236,
+    "invitation_id": 1350050461,
+    "music_id": 104,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_AmberBird.Play_BGM_AnimalRhythm_AmberBird",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 9,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050482,
+            "item_num": 10
+          }
+        ],
+        "collection_id": 1110010121
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 9,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050482,
+            "item_num": 11
+          }
+        ],
+        "collection_id": 1110010121
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 9,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050482,
+            "item_num": 12
+          }
+        ],
+        "collection_id": 1110010121
+      }
+    ],
+    "decoration": 0,
+    "exclusive_design": 0
+  },
+  "1201030": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201030,
+    "l10nname": "creature_name_102010",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_AN0085.T_icon_head_AN0085'",
+    "quality": 1,
+    "animal_type": 2,
+    "unlock_condition": 5109010236,
+    "invitation_id": 1350050462,
+    "music_id": 105,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_SheepA.Play_BGM_AnimalRhythm_SheepA",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 22,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 10
+          }
+        ],
+        "collection_id": 1110010125
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 22,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 11
+          }
+        ],
+        "collection_id": 1110010125
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 22,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 12
+          }
+        ],
+        "collection_id": 1110010125
+      }
+    ],
+    "decoration": 0,
+    "exclusive_design": 0
+  },
+  "1201031": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201031,
+    "l10nname": "creature_name_102011",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_AN0086.T_icon_head_AN0086'",
+    "quality": 3,
+    "animal_type": 2,
+    "unlock_condition": 5109010237,
+    "invitation_id": 1350050463,
+    "music_id": 306,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_SheepB.Play_BGM_AnimalRhythm_SheepB",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 20
+          }
+        ],
+        "collection_id": 1110010126
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 22
+          }
+        ],
+        "collection_id": 1110010126
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 24
+          }
+        ],
+        "collection_id": 1110010126
+      }
+    ],
+    "decoration": 1350010156,
+    "exclusive_design": 1350010156
+  },
+  "1201032": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201032,
+    "l10nname": "creature_name_102012",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_AN0109.T_icon_head_AN0109'",
+    "quality": 2,
+    "animal_type": 2,
+    "unlock_condition": 5109010255,
+    "invitation_id": 1350050464,
+    "music_id": 206,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_DeerFemale.Play_BGM_AnimalRhythm_DeerFemale",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 20
+          }
+        ],
+        "collection_id": 1110010127
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 22
+          }
+        ],
+        "collection_id": 1110010127
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 24
+          }
+        ],
+        "collection_id": 1110010127
+      }
+    ],
+    "decoration": 0,
+    "exclusive_design": 0
+  },
+  "1201033": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201033,
+    "l10nname": "creature_name_102013",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_AN0103.T_icon_head_AN0103'",
+    "quality": 3,
+    "animal_type": 2,
+    "unlock_condition": 5109010237,
+    "invitation_id": 1350050465,
+    "music_id": 308,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_DeerMale.Play_BGM_AnimalRhythm_DeerMale",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 20
+          }
+        ],
+        "collection_id": 1110010128
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 22
+          }
+        ],
+        "collection_id": 1110010128
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 24
+          }
+        ],
+        "collection_id": 1110010128
+      }
+    ],
+    "decoration": 1350010157,
+    "exclusive_design": 1350010157
+  },
+  "1201034": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201034,
+    "l10nname": "creature_name_102014",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_AN0114.T_icon_head_AN0114'",
+    "quality": 1,
+    "animal_type": 1,
+    "unlock_condition": 5109010236,
+    "invitation_id": 1350050466,
+    "music_id": 106,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_NobleRaven.Play_BGM_AnimalRhythm_NobleRaven",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 9,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050482,
+            "item_num": 10
+          }
+        ],
+        "collection_id": 1110010129
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 9,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050482,
+            "item_num": 11
+          }
+        ],
+        "collection_id": 1110010129
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 9,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050482,
+            "item_num": 12
+          }
+        ],
+        "collection_id": 1110010129
+      }
+    ],
+    "decoration": 0,
+    "exclusive_design": 0
+  },
+  "1201036": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201036,
+    "l10nname": "creature_name_102016",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_ANQ0057.T_icon_head_ANQ0057'",
+    "quality": 2,
+    "animal_type": 1,
+    "unlock_condition": 5109010255,
+    "invitation_id": 1350050467,
+    "music_id": 202,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_Chicken.Play_BGM_AnimalRhythm_Chicken",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 18,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050480,
+            "item_num": 20
+          }
+        ],
+        "collection_id": 1110010142
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 18,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050480,
+            "item_num": 22
+          }
+        ],
+        "collection_id": 1110010142
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 18,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050480,
+            "item_num": 24
+          }
+        ],
+        "collection_id": 1110010142
+      }
+    ],
+    "decoration": 0,
+    "exclusive_design": 0
+  },
+  "1201037": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201037,
+    "l10nname": "creature_name_102017",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_AN0100.T_icon_head_AN0100'",
+    "quality": 3,
+    "animal_type": 1,
+    "unlock_condition": 5109010237,
+    "invitation_id": 1350050468,
+    "music_id": 307,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_StringFerret.Play_BGM_AnimalRhythm_StringFerret",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 26,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050480,
+            "item_num": 30
+          }
+        ],
+        "collection_id": 1110010143
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 26,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050480,
+            "item_num": 33
+          }
+        ],
+        "collection_id": 1110010143
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 26,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050480,
+            "item_num": 36
+          }
+        ],
+        "collection_id": 1110010143
+      }
+    ],
+    "decoration": 1350010158,
+    "exclusive_design": 1350010158
+  },
+  "1201038": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201038,
+    "l10nname": "creature_name_102018",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_AN0101.T_icon_head_AN0101'",
+    "quality": 2,
+    "animal_type": 1,
+    "unlock_condition": 5109010255,
+    "invitation_id": 1350050469,
+    "music_id": 205,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_DouMaoXiao.Play_BGM_AnimalRhythm_DouMaoXiao",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 18,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050482,
+            "item_num": 20
+          }
+        ],
+        "collection_id": 1110010144
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 18,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050482,
+            "item_num": 22
+          }
+        ],
+        "collection_id": 1110010144
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 18,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050482,
+            "item_num": 24
+          }
+        ],
+        "collection_id": 1110010144
+      }
+    ],
+    "decoration": 0,
+    "exclusive_design": 0
+  },
+  "1201039": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201039,
+    "l10nname": "creature_name_102019",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_AN0099.T_icon_head_AN0099'",
+    "quality": 2,
+    "animal_type": 1,
+    "unlock_condition": 5109010255,
+    "invitation_id": 1350050470,
+    "music_id": 204,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_ZhuGuanYingWu.Play_BGM_AnimalRhythm_ZhuGuanYingWu",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 18,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050482,
+            "item_num": 20
+          }
+        ],
+        "collection_id": 1110010145
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 18,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050482,
+            "item_num": 22
+          }
+        ],
+        "collection_id": 1110010145
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 18,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050482,
+            "item_num": 24
+          }
+        ],
+        "collection_id": 1110010145
+      }
+    ],
+    "decoration": 0,
+    "exclusive_design": 0
+  },
+  "1201040": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201040,
+    "l10nname": "creature_name_102020",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_AN0092.T_icon_head_AN0092'",
+    "quality": 1,
+    "animal_type": 1,
+    "unlock_condition": 5109010236,
+    "invitation_id": 1350050471,
+    "music_id": 107,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_LingJieHuaMao.Play_BGM_AnimalRhythm_LingJieHuaMao",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 9,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050480,
+            "item_num": 10
+          }
+        ],
+        "collection_id": 1110010146
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 9,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050480,
+            "item_num": 11
+          }
+        ],
+        "collection_id": 1110010146
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 9,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050480,
+            "item_num": 12
+          }
+        ],
+        "collection_id": 1110010146
+      }
+    ],
+    "decoration": 0,
+    "exclusive_design": 0
+  },
+  "1201041": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201041,
+    "l10nname": "creature_name_102021",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_AN0087.T_icon_head_AN0087'",
+    "quality": 1,
+    "animal_type": 1,
+    "unlock_condition": 5109010236,
+    "invitation_id": 1350050472,
+    "music_id": 108,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_Squirrel.Play_BGM_AnimalRhythm_Squirrel",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 9,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050481,
+            "item_num": 10
+          }
+        ],
+        "collection_id": 1110010147
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 9,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050481,
+            "item_num": 11
+          }
+        ],
+        "collection_id": 1110010147
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 9,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050481,
+            "item_num": 12
+          }
+        ],
+        "collection_id": 1110010147
+      }
+    ],
+    "decoration": 0,
+    "exclusive_design": 0
+  },
+  "1201044": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201044,
+    "l10nname": "creature_name_102023",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_AN0094.T_icon_head_AN0094'",
+    "quality": 3,
+    "animal_type": 2,
+    "unlock_condition": 5109010237,
+    "invitation_id": 1350050473,
+    "music_id": 305,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_DelicateSwanA.Play_BGM_AnimalRhythm_DelicateSwanA",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050484,
+            "item_num": 20
+          }
+        ],
+        "collection_id": 1110010152
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050484,
+            "item_num": 22
+          }
+        ],
+        "collection_id": 1110010152
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050484,
+            "item_num": 24
+          }
+        ],
+        "collection_id": 1110010152
+      }
+    ],
+    "decoration": 1350010159,
+    "exclusive_design": 1350010159
+  },
+  "1201043": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201043,
+    "l10nname": "creature_name_102022",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_AN0095.T_icon_head_AN0095'",
+    "quality": 3,
+    "animal_type": 2,
+    "unlock_condition": 5109010237,
+    "invitation_id": 1350050474,
+    "music_id": 304,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_DelicateSwanB.Play_BGM_AnimalRhythm_DelicateSwanB",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050484,
+            "item_num": 20
+          }
+        ],
+        "collection_id": 1110010153
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050484,
+            "item_num": 22
+          }
+        ],
+        "collection_id": 1110010153
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050484,
+            "item_num": 24
+          }
+        ],
+        "collection_id": 1110010153
+      }
+    ],
+    "decoration": 1350010160,
+    "exclusive_design": 1350010160
+  },
+  "1201045": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201045,
+    "l10nname": "creature_name_102024",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_icon_head_ANQ0093.T_icon_head_ANQ0093'",
+    "quality": 2,
+    "animal_type": 2,
+    "unlock_condition": 5109010255,
+    "invitation_id": 1350050475,
+    "music_id": 203,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_HouDunDunDog.Play_BGM_AnimalRhythm_HouDunDunDog",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 20
+          }
+        ],
+        "collection_id": 1110010154
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 22
+          }
+        ],
+        "collection_id": 1110010154
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050483,
+            "item_num": 24
+          }
+        ],
+        "collection_id": 1110010154
+      }
+    ],
+    "decoration": 0,
+    "exclusive_design": 0
+  },
+  "1201046": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201046,
+    "l10nname": "creature_name_102026",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_Icon_head_AN0092R02.T_Icon_head_AN0092R02'",
+    "quality": 2,
+    "animal_type": 1,
+    "unlock_condition": 5109010255,
+    "invitation_id": 1350050476,
+    "music_id": 207,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_HuaMeiMao.Play_BGM_AnimalRhythm_HuaMeiMao",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 18,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050480,
+            "item_num": 20
+          }
+        ],
+        "collection_id": 1110010160
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 18,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050480,
+            "item_num": 22
+          }
+        ],
+        "collection_id": 1110010160
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 18,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050480,
+            "item_num": 24
+          }
+        ],
+        "collection_id": 1110010160
+      }
+    ],
+    "decoration": 0,
+    "exclusive_design": 0
+  },
+  "1201047": {
+    "_name": "homenew.HomeAnimalGameplay",
+    "_id": -445020722,
+    "animal_id": 1201047,
+    "l10nname": "creature_name_102027",
+    "animal_icon": "/Script/Engine.Texture2D'/Game/UI/Image/Creature/Animals/T_Icon_head_AN0210.T_Icon_head_AN0210'",
+    "quality": 3,
+    "animal_type": 2,
+    "unlock_condition": 5109010237,
+    "invitation_id": 1350050477,
+    "music_id": 309,
+    "music": "/Game/Audio/Events/bgm/bgm/Bgm_Ability/BGM_Ability_AnimalRhythm/RhythmingAnimals/Play_BGM_AnimalRhythm_ZheShanBaiLu.Play_BGM_AnimalRhythm_ZheShanBaiLu",
+    "animal_gameplay_info": [
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 1,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050484,
+            "item_num": 20
+          }
+        ],
+        "collection_id": 1110010161
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 2,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050484,
+            "item_num": 22
+          }
+        ],
+        "collection_id": 1110010161
+      },
+      {
+        "_name": "homenew.AnimalGameplayInfo",
+        "_id": 383655645,
+        "animal_affinity": 3,
+        "food_consumption": 42,
+        "afk_production": [
+          {
+            "_name": "homenew.HomeAnimalAfkAward",
+            "_id": 2035263679,
+            "item_id": 1350050484,
+            "item_num": 24
+          }
+        ],
+        "collection_id": 1110010161
+      }
+    ],
+    "decoration": 1350010161,
+    "exclusive_design": 1350010161
+  }
+}

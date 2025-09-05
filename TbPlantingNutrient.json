@@ -1,0 +1,121 @@
+{
+  "1350030093": {
+    "_name": "homenew.PlantingNutrient",
+    "_id": -1700527957,
+    "nutrient_id": 1350030093,
+    "name": "速速生长露",
+    "consume_count": 0,
+    "speedup_time": 1200,
+    "use_interval": 3600,
+    "quality_influences": [],
+    "l10ndes": "NutrientDesc_1350030093"
+  },
+  "1350030094": {
+    "_name": "homenew.PlantingNutrient",
+    "_id": -1700527957,
+    "nutrient_id": 1350030094,
+    "name": "滋养甘露",
+    "consume_count": 1,
+    "speedup_time": 3600,
+    "use_interval": 10800,
+    "quality_influences": [
+      {
+        "_name": "homenew.QualityInfluence",
+        "_id": -849023293,
+        "quality": 3,
+        "prob": 10
+      },
+      {
+        "_name": "homenew.QualityInfluence",
+        "_id": -849023293,
+        "quality": 4,
+        "prob": 10
+      },
+      {
+        "_name": "homenew.QualityInfluence",
+        "_id": -849023293,
+        "quality": 5,
+        "prob": 10
+      }
+    ],
+    "l10ndes": "NutrientDesc_1350030094"
+  },
+  "1350030095": {
+    "_name": "homenew.PlantingNutrient",
+    "_id": -1700527957,
+    "nutrient_id": 1350030095,
+    "name": "滋养凝露",
+    "consume_count": 1,
+    "speedup_time": 5400,
+    "use_interval": 14400,
+    "quality_influences": [
+      {
+        "_name": "homenew.QualityInfluence",
+        "_id": -849023293,
+        "quality": 3,
+        "prob": 15
+      },
+      {
+        "_name": "homenew.QualityInfluence",
+        "_id": -849023293,
+        "quality": 4,
+        "prob": 15
+      },
+      {
+        "_name": "homenew.QualityInfluence",
+        "_id": -849023293,
+        "quality": 5,
+        "prob": 15
+      }
+    ],
+    "l10ndes": "NutrientDesc_1350030095"
+  },
+  "1350030096": {
+    "_name": "homenew.PlantingNutrient",
+    "_id": -1700527957,
+    "nutrient_id": 1350030096,
+    "name": "润泽甘露",
+    "consume_count": 1,
+    "speedup_time": 7200,
+    "use_interval": 18000,
+    "quality_influences": [
+      {
+        "_name": "homenew.QualityInfluence",
+        "_id": -849023293,
+        "quality": 4,
+        "prob": 10
+      },
+      {
+        "_name": "homenew.QualityInfluence",
+        "_id": -849023293,
+        "quality": 5,
+        "prob": 10
+      }
+    ],
+    "l10ndes": "NutrientDesc_1350030096"
+  },
+  "1350030097": {
+    "_name": "homenew.PlantingNutrient",
+    "_id": -1700527957,
+    "nutrient_id": 1350030097,
+    "name": "润泽凝露",
+    "consume_count": 1,
+    "speedup_time": 10800,
+    "use_interval": 25200,
+    "quality_influences": [
+      {
+        "_name": "homenew.QualityInfluence",
+        "_id": -849023293,
+        "quality": 4,
+        "prob": 15
+      },
+      {
+        "_name": "homenew.QualityInfluence",
+        "_id": -849023293,
+        "quality": 5,
+        "prob": 15
+      }
+    ],
+    "l10ndes": "NutrientDesc_1350030097"
+  }
+}

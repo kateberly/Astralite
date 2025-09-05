@@ -1,0 +1,140 @@
+{
+  "1170000622": {
+    "_name": "homenew.HomeAnimalHabitatCfg",
+    "_id": -995819547,
+    "furniture_id": 1170000622,
+    "animal_type": 1,
+    "habitat_capacity": [
+      {
+        "_name": "homenew.HabitatCap",
+        "_id": -201858696,
+        "ability_lvl": 1,
+        "capacity": 3
+      },
+      {
+        "_name": "homenew.HabitatCap",
+        "_id": -201858696,
+        "ability_lvl": 2,
+        "capacity": 3
+      },
+      {
+        "_name": "homenew.HabitatCap",
+        "_id": -201858696,
+        "ability_lvl": 3,
+        "capacity": 5
+      },
+      {
+        "_name": "homenew.HabitatCap",
+        "_id": -201858696,
+        "ability_lvl": 4,
+        "capacity": 5
+      },
+      {
+        "_name": "homenew.HabitatCap",
+        "_id": -201858696,
+        "ability_lvl": 5,
+        "capacity": 5
+      },
+      {
+        "_name": "homenew.HabitatCap",
+        "_id": -201858696,
+        "ability_lvl": 6,
+        "capacity": 6
+      },
+      {
+        "_name": "homenew.HabitatCap",
+        "_id": -201858696,
+        "ability_lvl": 7,
+        "capacity": 6
+      },
+      {
+        "_name": "homenew.HabitatCap",
+        "_id": -201858696,
+        "ability_lvl": 8,
+        "capacity": 6
+      },
+      {
+        "_name": "homenew.HabitatCap",
+        "_id": -201858696,
+        "ability_lvl": 9,
+        "capacity": 7
+      },
+      {
+        "_name": "homenew.HabitatCap",
+        "_id": -201858696,
+        "ability_lvl": 10,
+        "capacity": 7
+      }
+    ],
+    "picture": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/SysAnimals/Texture/T_UI_house_animalmanage_img_housepic_01.T_UI_house_animalmanage_img_housepic_01'"
+  },
+  "1170000623": {
+    "_name": "homenew.HomeAnimalHabitatCfg",
+    "_id": -995819547,
+    "furniture_id": 1170000623,
+    "animal_type": 2,
+    "habitat_capacity": [
+      {
+        "_name": "homenew.HabitatCap",
+        "_id": -201858696,
+        "ability_lvl": 1,
+        "capacity": 2
+      },
+      {
+        "_name": "homenew.HabitatCap",
+        "_id": -201858696,
+        "ability_lvl": 2,
+        "capacity": 2
+      },
+      {
+        "_name": "homenew.HabitatCap",
+        "_id": -201858696,
+        "ability_lvl": 3,
+        "capacity": 2
+      },
+      {
+        "_name": "homenew.HabitatCap",
+        "_id": -201858696,
+        "ability_lvl": 4,
+        "capacity": 2
+      },
+      {
+        "_name": "homenew.HabitatCap",
+        "_id": -201858696,
+        "ability_lvl": 5,
+        "capacity": 4
+      },
+      {
+        "_name": "homenew.HabitatCap",
+        "_id": -201858696,
+        "ability_lvl": 6,
+        "capacity": 4
+      },
+      {
+        "_name": "homenew.HabitatCap",
+        "_id": -201858696,
+        "ability_lvl": 7,
+        "capacity": 4
+      },
+      {
+        "_name": "homenew.HabitatCap",
+        "_id": -201858696,
+        "ability_lvl": 8,
+        "capacity": 6
+      },
+      {
+        "_name": "homenew.HabitatCap",
+        "_id": -201858696,
+        "ability_lvl": 9,
+        "capacity": 6
+      },
+      {
+        "_name": "homenew.HabitatCap",
+        "_id": -201858696,
+        "ability_lvl": 10,
+        "capacity": 7
+      }
+    ],
+    "picture": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/SysAnimals/Texture/T_UI_house_animalmanage_img_housepic_02.T_UI_house_animalmanage_img_housepic_02'"
+  }
+}

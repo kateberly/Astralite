@@ -1,0 +1,1833 @@
+{
+  "10001": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 10001,
+    "type": 1,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homesys_icon_moneyimprove.T_UI_homesys_icon_moneyimprove'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_10001",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_10001",
+    "intensity": null
+  },
+  "10002": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 10002,
+    "type": 1,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homesys_icon_moneyimprove.T_UI_homesys_icon_moneyimprove'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_10002",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_10002",
+    "intensity": null
+  },
+  "10003": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 10003,
+    "type": 1,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homesys_icon_moneyimprove.T_UI_homesys_icon_moneyimprove'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_10003",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_10003",
+    "intensity": null
+  },
+  "10004": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 10004,
+    "type": 1,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homesys_icon_moneyimprove.T_UI_homesys_icon_moneyimprove'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_10004",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_10004",
+    "intensity": null
+  },
+  "10005": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 10005,
+    "type": 1,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homesys_icon_moneyimprove.T_UI_homesys_icon_moneyimprove'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_10005",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_10005",
+    "intensity": null
+  },
+  "10006": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 10006,
+    "type": 2,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homesys_icon_moneyimproveweekly.T_UI_homesys_icon_moneyimproveweekly'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_10006",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_10006",
+    "intensity": null
+  },
+  "10007": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 10007,
+    "type": 2,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homesys_icon_moneyimproveweekly.T_UI_homesys_icon_moneyimproveweekly'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_10007",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_10007",
+    "intensity": null
+  },
+  "10008": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 10008,
+    "type": 2,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homesys_icon_moneyimproveweekly.T_UI_homesys_icon_moneyimproveweekly'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_10008",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_10008",
+    "intensity": null
+  },
+  "10009": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 10009,
+    "type": 2,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homesys_icon_moneyimproveweekly.T_UI_homesys_icon_moneyimproveweekly'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_10009",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_10009",
+    "intensity": null
+  },
+  "10010": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 10010,
+    "type": 2,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homesys_icon_moneyimproveweekly.T_UI_homesys_icon_moneyimproveweekly'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_10010",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_10010",
+    "intensity": null
+  },
+  "10011": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 10011,
+    "type": 2,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homesys_icon_moneyimproveweekly.T_UI_homesys_icon_moneyimproveweekly'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_10011",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_10011",
+    "intensity": null
+  },
+  "34001": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34001,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysSkill/Resource/T_UI_skill_btn_intensify.T_UI_skill_btn_intensify'",
+    "is_highlight": 1,
+    "l10ndes_title": "HomeAbilityAwardTitle_34001",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_34001",
+    "intensity": 1
+  },
+  "34002": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34002,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_002.T_UI_homeplanting_icon_levelup_002'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34002",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000320,
+        "num": 2
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34002",
+    "intensity": null
+  },
+  "34003": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34003,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_002.T_UI_homeplanting_icon_levelup_002'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34003",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000321,
+        "num": 2
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34003",
+    "intensity": null
+  },
+  "34004": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34004,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_002.T_UI_homeplanting_icon_levelup_002'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34004",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000320,
+        "num": 2
+      },
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000321,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34004",
+    "intensity": null
+  },
+  "34005": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34005,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_002.T_UI_homeplanting_icon_levelup_002'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34005",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000321,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34005",
+    "intensity": null
+  },
+  "34006": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34006,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_002.T_UI_homeplanting_icon_levelup_002'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34006",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000320,
+        "num": 2
+      },
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000321,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34006",
+    "intensity": null
+  },
+  "34007": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34007,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_002.T_UI_homeplanting_icon_levelup_002'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34007",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000321,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34007",
+    "intensity": null
+  },
+  "34008": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34008,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_002.T_UI_homeplanting_icon_levelup_002'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34008",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000320,
+        "num": 2
+      },
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000321,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34008",
+    "intensity": null
+  },
+  "34009": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34009,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_002.T_UI_homeplanting_icon_levelup_002'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34009",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000320,
+        "num": 1
+      },
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000321,
+        "num": 1
+      },
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000322,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34009",
+    "intensity": null
+  },
+  "34010": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34010,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_002.T_UI_homeplanting_icon_levelup_002'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34010",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000320,
+        "num": 1
+      },
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000321,
+        "num": 1
+      },
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000322,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34010",
+    "intensity": null
+  },
+  "34011": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34011,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_002.T_UI_homeplanting_icon_levelup_002'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34011",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000320,
+        "num": 1
+      },
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000321,
+        "num": 1
+      },
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000322,
+        "num": 3
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34011",
+    "intensity": null
+  },
+  "34012": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34012,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_004.T_UI_homeplanting_icon_levelup_004'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34012",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_34012",
+    "intensity": null
+  },
+  "34013": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34013,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_004.T_UI_homeplanting_icon_levelup_004'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34013",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_34013",
+    "intensity": null
+  },
+  "34014": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34014,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_004.T_UI_homeplanting_icon_levelup_004'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34014",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_34014",
+    "intensity": null
+  },
+  "34015": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34015,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_004.T_UI_homeplanting_icon_levelup_004'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34015",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_34015",
+    "intensity": null
+  },
+  "34016": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34016,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_003.T_UI_homeplanting_icon_levelup_003'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34016",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350030021,
+        "num": 24
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34016",
+    "intensity": null
+  },
+  "34017": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34017,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_003.T_UI_homeplanting_icon_levelup_003'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34017",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350030033,
+        "num": 4
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34017",
+    "intensity": null
+  },
+  "34018": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34018,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_003.T_UI_homeplanting_icon_levelup_003'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34018",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350030045,
+        "num": 4
+      },
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350030069,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34018",
+    "intensity": null
+  },
+  "34019": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34019,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_003.T_UI_homeplanting_icon_levelup_003'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34019",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350030057,
+        "num": 2
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34019",
+    "intensity": null
+  },
+  "34020": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34020,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_003.T_UI_homeplanting_icon_levelup_003'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34020",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350030081,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34020",
+    "intensity": null
+  },
+  "34021": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34021,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_005.T_UI_homeplanting_icon_levelup_005'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34021",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_34021",
+    "intensity": null
+  },
+  "34022": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34022,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_005.T_UI_homeplanting_icon_levelup_005'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34022",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_34022",
+    "intensity": null
+  },
+  "34023": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34023,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_005.T_UI_homeplanting_icon_levelup_005'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34023",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_34023",
+    "intensity": null
+  },
+  "34024": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34024,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_007.T_UI_homeplanting_icon_levelup_007'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34024",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350010007,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34024",
+    "intensity": null
+  },
+  "34025": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34025,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_007.T_UI_homeplanting_icon_levelup_007'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34025",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350010008,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34025",
+    "intensity": null
+  },
+  "34026": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34026,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_007.T_UI_homeplanting_icon_levelup_007'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34026",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350010009,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34026",
+    "intensity": null
+  },
+  "34027": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34027,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_007.T_UI_homeplanting_icon_levelup_007'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34027",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350010010,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34027",
+    "intensity": null
+  },
+  "34028": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34028,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_006.T_UI_homebuilding_icon_levelup_006'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34028",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_34028",
+    "intensity": null
+  },
+  "34029": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34029,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_006.T_UI_homebuilding_icon_levelup_006'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34029",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_34029",
+    "intensity": null
+  },
+  "34030": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34030,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_009.T_UI_homeplanting_icon_levelup_009'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34030",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350010011,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34030",
+    "intensity": null
+  },
+  "34031": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 34031,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_007.T_UI_homeplanting_icon_levelup_007'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_34031",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350030093,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_34031",
+    "intensity": null
+  },
+  "22001": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22001,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysSkill/Resource/T_UI_skill_btn_jump_sharpen.T_UI_skill_btn_jump_sharpen'",
+    "is_highlight": 1,
+    "l10ndes_title": "HomeAbilityAwardTitle_22001",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22001",
+    "intensity": 2
+  },
+  "22002": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22002,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysSkill/Resource/T_UI_skill_btn_fly_sharpen.T_UI_skill_btn_fly_sharpen'",
+    "is_highlight": 1,
+    "l10ndes_title": "HomeAbilityAwardTitle_22002",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22002",
+    "intensity": 3
+  },
+  "22003": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22003,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_008.T_UI_homeplanting_icon_levelup_008'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_22003",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22003",
+    "intensity": null
+  },
+  "22004": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22004,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_004.T_UI_homebuilding_icon_levelup_004'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_22004",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22004",
+    "intensity": null
+  },
+  "22005": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22005,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_004.T_UI_homebuilding_icon_levelup_004'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_22005",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22005",
+    "intensity": null
+  },
+  "22006": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22006,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_004.T_UI_homebuilding_icon_levelup_004'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_22006",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22006",
+    "intensity": null
+  },
+  "22007": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22007,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_004.T_UI_homebuilding_icon_levelup_004'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_22007",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22007",
+    "intensity": null
+  },
+  "22008": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22008,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_003.T_UI_homebuilding_icon_levelup_003'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_22008",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22008",
+    "intensity": null
+  },
+  "22009": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22009,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_006.T_UI_homebuilding_icon_levelup_006'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_22009",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22009",
+    "intensity": null
+  },
+  "22010": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22010,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_006.T_UI_homebuilding_icon_levelup_006'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_22010",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22010",
+    "intensity": null
+  },
+  "22011": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22011,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_005.T_UI_homebuilding_icon_levelup_005'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_22011",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22011",
+    "intensity": null
+  },
+  "22012": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22012,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_005.T_UI_homebuilding_icon_levelup_005'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_22012",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22012",
+    "intensity": null
+  },
+  "22013": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22013,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_005.T_UI_homebuilding_icon_levelup_005'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_22013",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22013",
+    "intensity": null
+  },
+  "22014": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22014,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_005.T_UI_homebuilding_icon_levelup_005'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_22014",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22014",
+    "intensity": null
+  },
+  "22015": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22015,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_005.T_UI_homebuilding_icon_levelup_005'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_22015",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22015",
+    "intensity": null
+  },
+  "22016": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22016,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_008.T_UI_homebuilding_icon_levelup_008'",
+    "is_highlight": 1,
+    "l10ndes_title": "HomeAbilityAwardTitle_22016",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22016",
+    "intensity": null
+  },
+  "22017": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22017,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_007.T_UI_homebuilding_icon_levelup_007'",
+    "is_highlight": 1,
+    "l10ndes_title": "HomeAbilityAwardTitle_22017",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22017",
+    "intensity": null
+  },
+  "22018": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22018,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_009.T_UI_homebuilding_icon_levelup_009'",
+    "is_highlight": 1,
+    "l10ndes_title": "HomeAbilityAwardTitle_22018",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22018",
+    "intensity": null
+  },
+  "22019": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22019,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_013.T_UI_homebuilding_icon_levelup_013'",
+    "is_highlight": 1,
+    "l10ndes_title": "HomeAbilityAwardTitle_22019",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22019",
+    "intensity": null
+  },
+  "22020": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22020,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_010.T_UI_homebuilding_icon_levelup_010'",
+    "is_highlight": 1,
+    "l10ndes_title": "HomeAbilityAwardTitle_22020",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22020",
+    "intensity": null
+  },
+  "22021": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 22021,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_011.T_UI_homebuilding_icon_levelup_011'",
+    "is_highlight": 1,
+    "l10ndes_title": "HomeAbilityAwardTitle_22021",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_22021",
+    "intensity": null
+  },
+  "45011": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 45011,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homestar_icon_levelup_001.T_UI_homestar_icon_levelup_001'",
+    "is_highlight": 1,
+    "l10ndes_title": "HomeAbilityAwardTitle_45011",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_45011",
+    "intensity": null
+  },
+  "45021": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 45021,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homestar_icon_levelup_003.T_UI_homestar_icon_levelup_003'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_45021",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_45021",
+    "intensity": null
+  },
+  "45031": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 45031,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homestar_icon_levelup_006.T_UI_homestar_icon_levelup_006'",
+    "is_highlight": 1,
+    "l10ndes_title": "HomeAbilityAwardTitle_45031",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_45031",
+    "intensity": null
+  },
+  "45032": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 45032,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homestar_icon_levelup_003.T_UI_homestar_icon_levelup_003'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_45032",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_45032",
+    "intensity": null
+  },
+  "45041": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 45041,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homestar_icon_levelup_003.T_UI_homestar_icon_levelup_003'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_45041",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_45041",
+    "intensity": null
+  },
+  "45051": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 45051,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homestar_icon_levelup_003.T_UI_homestar_icon_levelup_003'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_45051",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_45051",
+    "intensity": null
+  },
+  "45052": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 45052,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homestar_icon_levelup_002.T_UI_homestar_icon_levelup_002'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_45052",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_45052",
+    "intensity": 4
+  },
+  "45061": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 45061,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homestar_icon_levelup_006.T_UI_homestar_icon_levelup_006'",
+    "is_highlight": 1,
+    "l10ndes_title": "HomeAbilityAwardTitle_45061",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_45061",
+    "intensity": null
+  },
+  "45062": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 45062,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homestar_icon_levelup_003.T_UI_homestar_icon_levelup_003'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_45062",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_45062",
+    "intensity": null
+  },
+  "45071": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 45071,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homestar_icon_levelup_003.T_UI_homestar_icon_levelup_003'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_45071",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_45071",
+    "intensity": null
+  },
+  "45081": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 45081,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_006.T_UI_homebuilding_icon_levelup_006'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_45081",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_45081",
+    "intensity": null
+  },
+  "45082": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 45082,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homestar_icon_levelup_003.T_UI_homestar_icon_levelup_003'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_45082",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_45082",
+    "intensity": null
+  },
+  "45091": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 45091,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homestar_icon_levelup_003.T_UI_homestar_icon_levelup_003'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_45091",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_45091",
+    "intensity": null
+  },
+  "45101": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 45101,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_006.T_UI_homebuilding_icon_levelup_006'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_45101",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_45101",
+    "intensity": null
+  },
+  "45102": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 45102,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homestar_icon_levelup_003.T_UI_homestar_icon_levelup_003'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_45102",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_45102",
+    "intensity": null
+  },
+  "48011": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 48011,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homestar_icon_levelup_001.T_UI_homestar_icon_levelup_001'",
+    "is_highlight": 1,
+    "l10ndes_title": "HomeAbilityAwardTitle_48011",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_48011",
+    "intensity": null
+  },
+  "48012": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 48012,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeanimal_icon_levelup_002.T_UI_homeanimal_icon_levelup_002'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_48012",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_48012",
+    "intensity": null
+  },
+  "48013": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 48013,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeanimal_icon_levelup_003.T_UI_homeanimal_icon_levelup_003'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_48013",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000622,
+        "num": 1
+      },
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350050478,
+        "num": 8
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_48013",
+    "intensity": null
+  },
+  "48021": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 48021,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeanimal_icon_levelup_004.T_UI_homeanimal_icon_levelup_004'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_48021",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000623,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_48021",
+    "intensity": null
+  },
+  "48031": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 48031,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeanimal_icon_levelup_011.T_UI_homeanimal_icon_levelup_011'",
+    "is_highlight": 1,
+    "l10ndes_title": "HomeAbilityAwardTitle_48031",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_48031",
+    "intensity": null
+  },
+  "48032": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 48032,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeanimal_icon_levelup_006.T_UI_homeanimal_icon_levelup_006'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_48032",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_48032",
+    "intensity": null
+  },
+  "48041": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 48041,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeanimal_icon_levelup_005.T_UI_homeanimal_icon_levelup_005'",
+    "is_highlight": 1,
+    "l10ndes_title": "HomeAbilityAwardTitle_48041",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350010151,
+        "num": 1
+      },
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350010152,
+        "num": 1
+      },
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350010153,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_48041",
+    "intensity": null
+  },
+  "48051": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 48051,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeanimal_icon_levelup_007.T_UI_homeanimal_icon_levelup_007'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_48051",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_48051",
+    "intensity": null
+  },
+  "48061": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 48061,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeanimal_icon_levelup_008.T_UI_homeanimal_icon_levelup_008'",
+    "is_highlight": 1,
+    "l10ndes_title": "HomeAbilityAwardTitle_48061",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_48061",
+    "intensity": null
+  },
+  "48062": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 48062,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeanimal_icon_levelup_006.T_UI_homeanimal_icon_levelup_006'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_48062",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_48062",
+    "intensity": null
+  },
+  "48063": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 48063,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeplanting_icon_levelup_008.T_UI_homeplanting_icon_levelup_008'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_48063",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_48063",
+    "intensity": null
+  },
+  "48071": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 48071,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_006.T_UI_homebuilding_icon_levelup_006'",
+    "is_highlight": 1,
+    "l10ndes_title": "HomeAbilityAwardTitle_48071",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_48071",
+    "intensity": null
+  },
+  "48081": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 48081,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeanimal_icon_levelup_007.T_UI_homeanimal_icon_levelup_007'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_48081",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_48081",
+    "intensity": null
+  },
+  "48091": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 48091,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homebuilding_icon_levelup_006.T_UI_homebuilding_icon_levelup_006'",
+    "is_highlight": 1,
+    "l10ndes_title": "HomeAbilityAwardTitle_48091",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_48091",
+    "intensity": null
+  },
+  "48092": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 48092,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeanimal_icon_levelup_006.T_UI_homeanimal_icon_levelup_006'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_48092",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_48092",
+    "intensity": null
+  },
+  "48101": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 48101,
+    "type": null,
+    "icon_path": "/Script/Engine.Texture2D'/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homeanimal_icon_levelup_007.T_UI_homeanimal_icon_levelup_007'",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_48101",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_48101",
+    "intensity": null
+  },
+  "47001": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47001,
+    "type": null,
+    "icon_path": "/Game/UI/SysSkill/Resource/T_UI_skill_btn_catchfish.T_UI_skill_btn_catchfish",
+    "is_highlight": 1,
+    "l10ndes_title": "HomeAbilityAwardTitle_47001",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_47001",
+    "intensity": 5
+  },
+  "47002": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47002,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_002.T_UI_homefishing_icon_levelup_002",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47002",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000419,
+        "num": 4
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_47002",
+    "intensity": null
+  },
+  "47003": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47003,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_002.T_UI_homefishing_icon_levelup_002",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47003",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000419,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_47003",
+    "intensity": null
+  },
+  "47004": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47004,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_002.T_UI_homefishing_icon_levelup_002",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47004",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000419,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_47004",
+    "intensity": null
+  },
+  "47005": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47005,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_002.T_UI_homefishing_icon_levelup_002",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47005",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000419,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_47005",
+    "intensity": null
+  },
+  "47006": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47006,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_002.T_UI_homefishing_icon_levelup_002",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47006",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000419,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_47006",
+    "intensity": null
+  },
+  "47007": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47007,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_002.T_UI_homefishing_icon_levelup_002",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47007",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000419,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_47007",
+    "intensity": null
+  },
+  "47008": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47008,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_002.T_UI_homefishing_icon_levelup_002",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47008",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000419,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_47008",
+    "intensity": null
+  },
+  "47009": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47009,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_002.T_UI_homefishing_icon_levelup_002",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47009",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000419,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_47009",
+    "intensity": null
+  },
+  "47010": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47010,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_002.T_UI_homefishing_icon_levelup_002",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47010",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1170000419,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_47010",
+    "intensity": null
+  },
+  "47011": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47011,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_004.T_UI_homefishing_icon_levelup_004",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47011",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_47011",
+    "intensity": null
+  },
+  "47012": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47012,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_004.T_UI_homefishing_icon_levelup_004",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47012",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_47012",
+    "intensity": null
+  },
+  "47013": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47013,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_004.T_UI_homefishing_icon_levelup_004",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47013",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_47013",
+    "intensity": null
+  },
+  "47014": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47014,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_003.T_UI_homefishing_icon_levelup_003",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47014",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350070022,
+        "num": 8
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_47014",
+    "intensity": null
+  },
+  "47015": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47015,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_003.T_UI_homefishing_icon_levelup_003",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47015",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350070020,
+        "num": 2
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_47015",
+    "intensity": null
+  },
+  "47016": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47016,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_003.T_UI_homefishing_icon_levelup_003",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47016",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350070021,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_47016",
+    "intensity": null
+  },
+  "47017": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47017,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_003.T_UI_homefishing_icon_levelup_003",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47017",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350070019,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_47017",
+    "intensity": null
+  },
+  "47018": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47018,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_003.T_UI_homefishing_icon_levelup_003",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47018",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350070023,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_47018",
+    "intensity": null
+  },
+  "47019": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47019,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_005.T_UI_homefishing_icon_levelup_005",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47019",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_47019",
+    "intensity": null
+  },
+  "47020": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47020,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_005.T_UI_homefishing_icon_levelup_005",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47020",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_47020",
+    "intensity": null
+  },
+  "47021": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47021,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_007.T_UI_homefishing_icon_levelup_007",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47021",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350010384,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_47021",
+    "intensity": null
+  },
+  "47022": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47022,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_007.T_UI_homefishing_icon_levelup_007",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47022",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350010385,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_47022",
+    "intensity": null
+  },
+  "47023": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47023,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_007.T_UI_homefishing_icon_levelup_007",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47023",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350010386,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_47023",
+    "intensity": null
+  },
+  "47024": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47024,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_007.T_UI_homefishing_icon_levelup_007",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47024",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350010387,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_47024",
+    "intensity": null
+  },
+  "47025": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47025,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_006.T_UI_homefishing_icon_levelup_006",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47025",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_47025",
+    "intensity": null
+  },
+  "47026": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47026,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_006.T_UI_homefishing_icon_levelup_006",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47026",
+    "des_item": [],
+    "l10ndes_function": "HomeAbilityAwardDes_47026",
+    "intensity": null
+  },
+  "47027": {
+    "_name": "homenew.HomeAbilityLevelUpRewardShowInfo",
+    "_id": 925204027,
+    "id": 47027,
+    "type": null,
+    "icon_path": "/Game/UI/SysHomeUI/Common/Textures/Icon/Ability_1/T_UI_homefishing_icon_levelup_007.T_UI_homefishing_icon_levelup_007",
+    "is_highlight": 0,
+    "l10ndes_title": "HomeAbilityAwardTitle_47027",
+    "des_item": [
+      {
+        "_name": "homenew.RewardInfo",
+        "_id": -1428387766,
+        "item_id": 1350071001,
+        "num": 1
+      }
+    ],
+    "l10ndes_function": "HomeAbilityAwardDes_47027",
+    "intensity": null
+  }
+}
