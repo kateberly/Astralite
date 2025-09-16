@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Astralite Optimiser</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero__content">
+        <h1>Astralite Optimiser</h1>
+        <p>
+          Plan your weekly Astralite exchanges with Posy using live Infinity Nikki
+          housing data pulled directly from
+          <a href="https://github.com/kateberly/Astralite" target="_blank" rel="noreferrer">kateberly/Astralite</a>.
+        </p>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="card" id="player-setup">
+        <h2>Player setup</h2>
+        <div id="ability-inputs" class="grid"></div>
+        <div class="form-row">
+          <label for="crafting-slots">Crafting queue slots</label>
+          <input id="crafting-slots" type="number" min="1" value="1" step="1" />
+        </div>
+      </section>
+
+      <section class="card" id="bonus-section">
+        <h2>Weekly 1.2× items</h2>
+        <div class="form-row inline">
+          <input
+            id="bonus-search"
+            type="search"
+            placeholder="Search item name"
+            list="bonus-options"
+            autocomplete="off"
+          />
+          <datalist id="bonus-options"></datalist>
+          <button id="add-bonus" type="button" class="secondary">Add item</button>
+        </div>
+        <p class="hint">Add up to four items that receive the 1.2× Astralite bonus.</p>
+        <div id="selected-bonuses" class="chip-container"></div>
+      </section>
+
+      <section class="card" id="actions">
+        <button id="calculate" type="button" class="primary">Compute optimal plan</button>
+        <div id="status" class="status"></div>
+      </section>
+
+      <section class="card hidden" id="summary-section">
+        <h2>Weekly summary</h2>
+        <div id="summary-metrics" class="metric-grid"></div>
+        <div id="facility-summary" class="metric-grid"></div>
+      </section>
+
+      <section class="card hidden" id="plan-section">
+        <h2>Optimised production plan</h2>
+        <p id="plan-message" class="hint"></p>
+        <div class="table-wrapper">
+          <table id="plan-table">
+            <thead>
+              <tr>
+                <th>Item</th>
+                <th>Category</th>
+                <th>Units</th>
+                <th>Astralite</th>
+                <th>Value / unit</th>
+                <th>Plant hrs</th>
+                <th>Fish hrs</th>
+                <th>Craft hrs</th>
+                <th>Weekly bonus</th>
+              </tr>
+            </thead>
+            <tbody id="plan-body"></tbody>
+          </table>
+        </div>
+
+        <div class="table-wrapper">
+          <table id="facility-table">
+            <thead>
+              <tr>
+                <th>Facility</th>
+                <th>Used (hrs)</th>
+                <th>Capacity (hrs)</th>
+                <th>Utilisation %</th>
+              </tr>
+            </thead>
+            <tbody id="facility-body"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="card hidden" id="detail-section">
+        <h2>Item details</h2>
+        <div class="form-row">
+          <label for="item-select">Inspect item</label>
+          <select id="item-select"></select>
+        </div>
+        <div id="item-details" class="details"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>
+        Built for Infinity Nikki housing enthusiasts. Optimisation powered by linear programming, data sourced live from GitHub.
+      </p>
+    </footer>
+
+    <script src="/static/app.js" type="module"></script>
+  </body>
+</html>

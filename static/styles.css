@@ -1,0 +1,293 @@
+:root {
+  color-scheme: light;
+  font-family: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+  line-height: 1.5;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f5f7fb;
+  color: #1c2534;
+}
+
+.hero {
+  background: linear-gradient(135deg, #3c74ff, #6a9bff);
+  color: #fff;
+  padding: 3rem 1.5rem;
+}
+
+.hero__content {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.hero h1 {
+  margin: 0 0 0.5rem;
+  font-size: 2.5rem;
+}
+
+.hero p {
+  margin: 0;
+  max-width: 720px;
+}
+
+.hero a {
+  color: #ffe8a3;
+  font-weight: 600;
+}
+
+.layout {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 3rem;
+  display: grid;
+  gap: 1.5rem;
+}
+
+.card {
+  background: #fff;
+  border-radius: 16px;
+  padding: 1.5rem;
+  box-shadow: 0 12px 30px rgba(28, 37, 52, 0.08);
+}
+
+.card h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.form-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  margin-top: 1rem;
+}
+
+.form-row.inline {
+  flex-direction: row;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+label {
+  font-weight: 600;
+  color: #405168;
+}
+
+input,
+select,
+button {
+  font: inherit;
+}
+
+input,
+select {
+  border: 1px solid #c8d4ec;
+  border-radius: 8px;
+  padding: 0.5rem 0.75rem;
+  transition: border-color 0.2s ease;
+}
+
+input:focus,
+select:focus {
+  outline: none;
+  border-color: #3c74ff;
+  box-shadow: 0 0 0 2px rgba(60, 116, 255, 0.15);
+}
+
+button {
+  border: none;
+  border-radius: 999px;
+  padding: 0.6rem 1.4rem;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+button.primary {
+  background: linear-gradient(135deg, #3c74ff, #5a8dff);
+  color: #fff;
+  font-weight: 600;
+  box-shadow: 0 10px 18px rgba(60, 116, 255, 0.35);
+}
+
+button.primary:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 14px 24px rgba(60, 116, 255, 0.45);
+}
+
+button.secondary {
+  background: #eef3ff;
+  color: #3450a1;
+  font-weight: 600;
+}
+
+button.secondary:hover {
+  background: #dfe8ff;
+}
+
+.chip-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: #eef2ff;
+  color: #263d7a;
+  border-radius: 999px;
+  padding: 0.25rem 0.85rem;
+}
+
+.chip button {
+  background: transparent;
+  border: none;
+  color: #263d7a;
+  cursor: pointer;
+  padding: 0;
+  font-size: 0.85rem;
+}
+
+.status {
+  margin-top: 1rem;
+  min-height: 1.5rem;
+  color: #20345a;
+  font-weight: 600;
+}
+
+.status.error {
+  color: #b00020;
+}
+
+.hint {
+  color: #65738d;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}
+
+.metric-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.metric {
+  border-radius: 12px;
+  border: 1px solid #dbe4ff;
+  background: #f7f9ff;
+  padding: 1rem;
+}
+
+.metric h3 {
+  margin: 0;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #4b5b80;
+}
+
+.metric p {
+  margin: 0.3rem 0 0;
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  margin-top: 1rem;
+  border-radius: 12px;
+  border: 1px solid #e0e7ff;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 720px;
+}
+
+thead {
+  background: #eff3ff;
+}
+
+thead th {
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  color: #4e5d7e;
+}
+
+th,
+td {
+  padding: 0.65rem 0.75rem;
+  border-bottom: 1px solid #e6ecff;
+  text-align: left;
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
+.details {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.details h3 {
+  margin: 0;
+}
+
+.details table {
+  min-width: 0;
+}
+
+.details table th,
+.details table td {
+  border-bottom: 1px solid #e6ecff;
+}
+
+.details ul {
+  margin: 0.5rem 0 0;
+  padding-left: 1.2rem;
+}
+
+.hidden {
+  display: none;
+}
+
+.footer {
+  text-align: center;
+  padding: 2rem 1rem 3rem;
+  color: #5a6780;
+  font-size: 0.9rem;
+}
+
+.footer a {
+  color: inherit;
+  font-weight: 600;
+}
+
+@media (max-width: 720px) {
+  .form-row.inline {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  table {
+    min-width: 100%;
+  }
+}
