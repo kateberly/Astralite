@@ -16,6 +16,7 @@ def test_init_endpoint_returns_profiles():
     assert len(data["items"]) > 0
     sample = data["items"][0]
     assert {"item_id", "name", "category"}.issubset(sample)
+    assert all(item["facility_minutes"] for item in data["items"])
 
 
 def test_optimise_endpoint_handles_bonus_items():

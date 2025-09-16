@@ -51,7 +51,16 @@ global_config = loader.fetch_json("TbHomeGlobalConfig")
 BASE_WEEKLY_LIMIT = int(global_config.get("home_money_max", 100000))
 
 ALL_PROFILES = calculator.supported_profiles()
-MODELLED_PROFILES = [profile for profile in ALL_PROFILES if profile.category in MODELLED_CATEGORIES]
+def _is_modelled(profile: ProductionProfile) -> bool:
+    if profile.category not in MODELLED_CATEGORIES:
+        return False
+    for minutes in profile.facility_minutes.values():
+        if minutes and math.isfinite(minutes) and minutes > 0:
+            return True
+    return False
+
+
+MODELLED_PROFILES = [profile for profile in ALL_PROFILES if _is_modelled(profile)]
 
 STATIC_DIR = Path(__file__).resolve().parent / "static"
 
